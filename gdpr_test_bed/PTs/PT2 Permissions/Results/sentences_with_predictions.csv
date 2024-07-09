@@ -1,0 +1,1605 @@
+,app_id,sentence,predictions
+0,com.fourdesire.plantnanny2,3. easy editing: quickly update your water logs for accurate data.,['STORAGE']
+1,com.earcare.apps.hearingaid,simply plug in wired earphones into your phone and use earcare hearing aid app for hearing enhancement like real hearing aids.,['MICROPHONE']
+2,com.earcare.apps.hearingaid,"plug in wired earphones and use earcare hearing aid app for android to hear speech, conversations and surrounding sounds clearly without audio delay or latency.",['MICROPHONE']
+3,com.earcare.apps.hearingaid,earcare hearing aid app for android helps you hear better during meetings at work or conversations with family and friends.,['MICROPHONE']
+4,com.earcare.apps.hearingaid,"earcare hearing aid app for android uses your phone’s built-in microphone to pick up speech or nearby sounds and deliver the sound to your ear at louder volume, while reducing background noise for clear hearing.",['MICROPHONE']
+5,com.earcare.apps.hearingaid,earcare hearing aid app for android reduces background noise to make sound clear and amplifies the sound to make it louder for your ears.,['MICROPHONE']
+6,com.earcare.apps.hearingaid,"whether you only need louder hearing or you have otosclerosis with tinnitus, you can use this hearing aid app lets you use your phone like a real hearing aid.",['MICROPHONE']
+7,com.earcare.apps.hearingaid,"earcare hearing aid app for android makes it possible to use your phone, together with wired earphones or headphones, as a hearing aid to restore your normal hearing.",['MICROPHONE']
+8,com.earcare.apps.hearingaid,you can choose whether to use the phone's microphone or the microphone on your headset to capture and amplify sound.,['MICROPHONE']
+9,com.earcare.apps.hearingaid,earcare hearing aid app for android restores your normal hearing and helps you hear without any limits.,['MICROPHONE']
+10,com.earcare.apps.hearingaid,● sound recorder – record the sound (while you’re listening) so that you can listen again later.,['MICROPHONE']
+11,com.earcare.apps.hearingaid,● bluetooth connectivity -- supports bluetooth headsets and android-compatible hearing aids.,['SETTINGS']
+12,com.earcare.apps.hearingaid,note: use wired earphones or headphones because bluetooth has a 1-second audio delay or latency.,['SETTINGS']
+13,air.com.sensely.asknhs,"please note for immediate life-threatening emergencies call 999.
+
+when to use askfirst:
+- abdominal pain
+- back pain
+- cough
+- cold or flu symptoms
+- chest pain
+- dizziness
+- fever
+- headache
+- pregnant and vomiting
+- rash
+- sore throat
+- urinary symptoms
+- general medical questions, ""should i go in for this or not?""",['PHONE']
+14,com.bmi.hr_monitor,innovative display and documentation of the heart rate in combination with a bluetooth smart chest belt.,['SETTINGS']
+15,com.foodallergyfix.foodallergyfix,the food allergy fix app timestamps all your doses and keeps an ongoing log of dosing activity that is accessible by your allergist’s office (if they have signed up for the web portal).,['STORAGE']
+16,com.Meditation.app,¥        calm music playlists for various moods and occasions and the ability to create your own playlists.,['STORAGE']
+17,com.cronometer.android.gold,"by default, your subscription will auto-renew.",['STORAGE']
+18,com.cronometer.android.gold,you can change or cancel your subscription under your google play account settings.,"['STORAGE', 'CONTACTS']"
+19,com.companyname.Fitout,scan or upload a qr code to track your workouts.,['CAMERA']
+20,com.companyname.Fitout,"each workout is saved in your archive, so you never have to worry about losing a workout.",['STORAGE']
+21,com.companyname.Fitout,"starting:
+in 3 steps a workout in your app:
+1. download the app
+2. activate the qr code of your fitness club or trainer
+3. scan or upload the qr code
+
+put your back into it and achieve your goals!",['CAMERA']
+22,com.g4app,"saved
+ save your favorites and come back to them when you need them.",['STORAGE']
+23,com.g4app,"freestyle mode
+ control your bluetooth enabled devices from your app featuring: infinite speeds, enhanced force meter, battery life indicator, routine timer, and device management.",['SETTINGS']
+24,com.g4app,"bluetooth 
+the android operating system requires location permissions enabled in order to connect to your therabody bluetooth-enabled device.",['SETTINGS']
+25,com.basenjiapps.breeze,account will be charged at the full price of the chosen subscription period.,['CONTACTS']
+26,com.dparts.fontafitplus,• camera: take photos remotely with your phone using the built-in photo trigger feature in the smart bracelet.,['CAMERA']
+27,com.dparts.fontafitplus,this feature is especially useful if you don't have a free hand to press the shutter button.,['CAMERA']
+28,com.distributedmedical.Capture,"endoscopic units, x-ray equipment, camera units in the or-lighting or perhaps on the head of the surgeon, ultrasound appliances of various kinds (external as well as in vitro) and so on.",['CAMERA']
+29,com.distributedmedical.Capture,"distributed medical offers numerous solutions for collecting, storing, editing and sharing medical images in automated, workflow optimized, secure and clinically relevant ways.",['STORAGE']
+30,com.distributedmedical.Capture,as any smartphone (or tablets) today pretty much is a high-performance computer with a camera and a touch screen we figured – why not use it as a medical imaging tool?,['CAMERA']
+31,com.distributedmedical.Capture,"switch between departments, view and use worklists, still image and video recording, audio recording, quality control and seamless integration to the vidiview server is always there.",['MICROPHONE']
+32,com.babylon.telushealth,"if you want to change the language of the application, please change the language of your phone in the general settings of your device.",['SETTINGS']
+33,com.coachcare.twentylighterCoachCare,our hipaa-compliant platform and bluetooth connected body composition scale eliminate the need to travel to an office.,['SETTINGS']
+0,com.foracare.tdlink.bp,the app works smoothly with fora diamond cuff bp blood pressure monitor via bluetooth connection.,['SETTINGS']
+1,com.bcbsla.mobile.droid,find a blue cross office near you.,['LOCATION']
+2,com.divinememorygames.eyebooster,✻ bookmark: save your favorite tips in a convenient bookmark list.,['STORAGE']
+3,com.divinememorygames.eyebooster,the eye care app for mobile provides valuable eye exercise methods that may help delay the need for glasses or contacts in some individuals.,['CONTACTS']
+4,com.beyuna.app.android,"clients:
+
+- easily create a profile or log in with your existing customer account.",['CONTACTS']
+5,com.beyuna.app.android,- check the event calendar and sign up for events.,['CALENDAR']
+6,com.beyuna.app.android,- send prospects a personalized email via the invite contacts button.,['CONTACTS']
+7,com.blinkhealth.blinkandroid,"just pay in the app to save, then pick up at a pharmacy nearby.",['LOCATION']
+8,com.baritastic.view,"once connected, you'll have access to your discharge instructions, support group calendar, diet guidelines, key contacts, and much more.",['CONTACTS']
+9,com.azumio.android.argus,download argus now!,['STORAGE']
+10,com.azumio.android.argus,"✓multi-activity gps tracker – track running, cycling and dozens of other activities 
+✓intense video workouts – burn hundreds of calories through awesome fat-melting or muscle building workouts.",['LOCATION']
+11,com.bupa.beme,- link to your wearables including google fit and fitbit – helping you track your health goals automatically.,['CONTACTS']
+12,com.garmin.android.apps.connectmobile,garmin connect needs sms permission to allow you to receive and send sms text messages from your garmin devices.,['SMS']
+13,com.garmin.android.apps.connectmobile,we also need call log permission to display incoming calls on your devices.,['CALL_LOG']
+14,com.garmin.android.apps.connectmobile,-	sync with other apps like myfitnesspal and strava.,['CONTACTS']
+15,com.garmin.android.apps.connectmobile,"(1)	see compatible devices at garmin.com/ble
+(2)	see a full list of compatible devices at garmin.com/p/125677#devices
+(3)	activity tracking accuracy: garmin.com/en-us/legal/atdisclaimer
+
+note: continued use of gps running in the background can dramatically decrease battery life.",['LOCATION']
+0,com.carbonhealth.patient.prod,"our medical services
+carbon health offers telehealth and in-clinic doctor visits for:
+- urgent care
+- primary care (pcp)
+- mental health
+- pediatrics
+with the carbon health app, you can:
+- schedule same-day medical appointments
+- chat with or video call a doctor online with telehealth
+- follow-up on treatment plans with questions and concerns
+- access your medical records including x-rays, test results, and labs
+- request prescription refills, delivered to your home or the pharmacy of your choice
+what we treat
+carbon health treats adult and pediatric patients for a variety of in-clinic and virtual appointment reasons for urgent care, primary care, and mental health via teletherapy.","['CAMERA', 'MICROPHONE']"
+1,com.fitnesssyncer.fitnesssyncer_for_samsung_health,* email or social progress reports: share your progress with family and friends via email and twitter.,['CONTACTS']
+2,com.fitnow.loseit,"calorie counter features
+
+• barcode scanner – quickly scan food barcodes or search our food and meal database to track your health and nutrition, including carbs, macro and calorie intake.",['CAMERA']
+3,com.fitnow.loseit,log food by simply taking a photo of your meal.,['CAMERA']
+4,com.fitnow.loseit,just tap the camera icon for food tracking and calorie counting in a snap.,['CAMERA']
+5,com.fitnow.loseit,"• fitness app syncs – connect fitness trackers, workout apps, and devices like fitbit trackers, misfit trackers, garmin trackers, withings scales, google fit, healthkit, and more in order to maximize your weight loss tracking.",['CONTACTS']
+6,com.beltone.hearmax,"you can change programs, and make simple or more advanced sound adjustments and save them as favorites.",['STORAGE']
+7,com.github.jamesgay.fitnotes,"workout log
+- view and navigate daily workout logs quickly by swiping between them
+- navigate to a specific day using the inbuilt calendar
+- add an exercise to the workout log and record sets of weight and reps or distance and time
+- swipe across when recording sets to view your workout history with the exercise
+- attach comments/notes to sets
+- rest timer with sound and vibration options
+- re-order exercises you've added to a workout log (long press an exercise card to initiate 'edit mode' and then press and drag the blue drag icon at the top right of the card)
+
+exercise database
+- includes a default selection of categories (chest, back, legs, etc)
+- each category contains a small default list of exercises
+- create custom categories to better suit your training program
+    - e.g.",['CALENDAR']
+8,com.github.jamesgay.fitnotes,"olympic lifts, plyometrics, ab training, etc
+- add new exercises quickly using 'save and new' feature
+- two exercise types: resistance and cardio
+    - resistance - record training in weight and reps
+    - cardio - record training in distance and time
+
+routines
+- create a routine to provide quick access to your most commonly used exercises
+- assign exercises to a particular day within the routine
+- name a day whatever you want (monday, chest day, workout a, etc)
+- select a single exercise from a day within the routine to add it to the training log
+  or hit 'log all' to add an empty set for each exercise which can then be filled in later
+- create as many routines as you want and switch between them using dropdown list
+- remembers which routine you selected last
+
+calendar
+- dates on which you have recorded training logs are highlighted
+- tap a day in the calendar to display a popup listing the exercises performed on that day
+- navigate to a specific day's training log by selecting it in the calendar and hitting 'go!'",['CALENDAR']
+9,com.github.jamesgay.fitnotes,"- filter which days are highlighted in the calendar
+- e.g.",['CALENDAR']
+10,com.github.jamesgay.fitnotes,"highlight days where i did bench press and lifted more than 80kg for at least 5 reps
+  highlight days where i ran outdoors and travelled more than 3 miles in less than 20 minutesr
+
+backup/restore
+- backup your data to device storage or an online cloud service (dropbox or google drive - please ensure you have the corresponding apps installed on your device if you would like to backup to one of these services)
+
+export
+- export your training logs in csv format so they can be analyzed in your spreadsheet application of choice
+
+permissions
+- modify or delete the contents of your usb storage: required in order to be able to backup/export data to your device storage or sd card
+- control vibration: used if you have selected the 'vibrate' option for the rest timer
+- prevent device from sleeping: required in order to ensure the rest timer continues to count down when the screen is off
+
+if you have any feedback then please email fitnotesapp@gmail.com",['STORAGE']
+11,com.baviux.pillreminder,"- number of pills per packet customizable (so is compatible with all birth control pill types)
+- the application displays the status of your pill packet.",['STORAGE']
+12,com.baviux.pillreminder,"- you can use the widgets ""lady pill widgets"": it's a pack of 2 widgets for your home screen: one shows your pill calendar (so you can see future months predictions), and the other shows your current cycle day, and also shows you if you have to take pill today or not (""lady pill widgets"" is sold separately).",['CALENDAR']
+13,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,"no gps tracking, so it can greatly save battery.",['LOCATION']
+14,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,"the most accurate & simple step tracker auto tracks your daily steps, burned calories , walking distance, duration, pace, health data, etc., and display them in intuitive graphs for easy checking.",['LOCATION']
+15,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,"no gps tracking, so it barely consumes battery power.",['LOCATION']
+16,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,"power saving pedometer
+pedometer uses less power during operation because it does not use gps.",['LOCATION']
+17,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,"further, not using gps makes low power consumption possible.",['LOCATION']
+18,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,"backup & restore data
+you can back up and restore data from your google drive.",['STORAGE']
+19,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,"- charts: daily, weekly, monthly, and yearly step counts.",['STORAGE']
+20,com.cpl.pedometer.stepcounter.calorieburner.pedometerforwalking.accurate.steptracker,- set up notifications reminding you about drinking.,['SETTINGS']
+21,com.ddpyoga.android,"ddp yoga now features:
+-       all the original, life-changing ddp yoga workouts 
+-       ddpy rebuild programs and workouts designed for individuals with limited mobility (bed workouts, chair workouts)
+-       workouts for kids and expecting moms (prenatal)
+-       weekly live-streamed workouts featuring diamond dallas page 
+-       detailed, interactive fitness tracking to keep you motivated
+-       bluetooth heart monitor compatibility to track calories burned and time in zone
+-       mobile and desktop access with the ability to cast to a tv right from the app
+-       motivational videos and stories from the amazing team ddp yoga community
+-       ability to earn points to redeem for ddpy swag or opportunities to meet ddp
+
+the ddp yoga now app is far more than just another workout program – it’s a motivational tool that tracks your progress every step of the way, with a limitless content library of workouts, nutritional tips, recipes, and motivational stories to keep you going.",['SETTINGS']
+0,com.dvlathlete.tridot,it seamlessly auto-syncs with garmin and polar.,['CONTACTS']
+1,com.czjk.ibraceletplus.himove,2. push sms notification to smart watch and you can read text and detail of sms on your wearable device.,['SMS']
+2,com.fitnesskeeper.runkeeper.pro,gps tracking gives you a clear view of your training in real time.,['LOCATION']
+3,com.fitnesskeeper.runkeeper.pro,"• partner apps: listen to music with spotify and apple music integrations, sync with garmin watches, and connect with health apps like fitbit and myfitnesspal so you can track running and fitness with your wearables.",['CONTACTS']
+4,com.fitnesskeeper.runkeeper.pro,"•  social sharing: share snapshots of your activities, or run club activities, to any app, from social media to messaging platforms.",['CONTACTS']
+5,com.fitnesskeeper.runkeeper.pro,• live tracking: share your live location with your approved contacts.,"['CONTACTS', 'LOCATION']"
+6,com.fullpower.applications.sleepz,"sleep cycle alarm
+optionally select white noise that gently fades away after you've fallen asleep, then set a sleep cycle alarm that will help you wake up at the optimal time in your sleep cycle so you wake up refreshed and more energized.",['SETTINGS']
+7,com.elsavie.gutsecret,• see your progress and tracking history with the calendar and start noticing your digestion patterns.,['CALENDAR']
+8,com.elsavie.gutsecret,download the app to start tracking and learning!,['STORAGE']
+9,com.cardiogram.v1,"furthermore, you can download a comprehensive report of your symptoms and readings to share with your doctor.",['STORAGE']
+10,com.cardiogram.v1,heart iq also allows you to connect a family member to your account so they can see your data and support you in your health journey.,['CONTACTS']
+11,com.cardiogram.v1,"export data & share-with-doctor
+• report card provides continuously updated information about your risk for hypertension, sleep apnea, and diabetes.",['STORAGE']
+12,com.cardiogram.v1,"• migraine headache mapping captures the location & perceived intensity of pain, stress level for day, sleep duration & quality, & food triggers.",['LOCATION']
+13,com.carehalo,this application supports reading collected data from carehalo provided connected bluetooth devices.,['SETTINGS']
+14,com.bloodpressuredail.bloodpressuredail,"the simple and easy-to-use smart blood pressure recording tool can not only help you easily monitor blood pressure at home, but also provide a lot of popular science knowledge about blood pressure, so that you can have a more comprehensive understanding of blood pressure and better control of blood pressure.",['MICROPHONE']
+15,com.bloodpressuredail.bloodpressuredail,"additionally, you can use the keyboard to quickly enter data and easily edit, save, update or delete measurements.",['STORAGE']
+16,com.drmolescope,"patients' images are stored and organized for quick retrieval, and comparison.",['STORAGE']
+17,com.cardiocomm.gmrpm,"all supported ecg devices are hand-held, bluetooth connected and with long lasting battery life.",['SETTINGS']
+18,com.completeconcussions.concussiontracker,- find and access the nearest local concussion clinics.,['LOCATION']
+19,au.com.mndandme.uq,"additional capability in the app assists in collating all contact information for your clinical and care teams, tracking appointments, medications and changes in prescriptions and your equipment.",['CONTACTS']
+20,com.fundriven.breath_ball,prof. dr. loew's slow paced breathing technique is used to calm down and overcome high stress situations.,['MICROPHONE']
+21,com.fr.dist.simplifyRecorder,simplify recorder allows you to benefit from the simplify medical reports outsourcing service from your android mobile in complete safety and simplicity.,['MICROPHONE']
+22,com.fr.dist.simplifyRecorder,"you can then dictate your medical reports via the simplify recorder's dictaphone (rewind, fast forward, erase, resume recording, etc.)",['MICROPHONE']
+23,com.eyeexamtest.eyecareplus,"you can switch anytime 
+start your eye training anytime anywhere 
+sync with your calendar not to skip your training 
+you can choose to use the free plan!",['CALENDAR']
+24,com.crrepa.band.rs,"user can also get the call and messages alerts and set up the alarm, sedentary reminder etc.",['SETTINGS']
+25,com.Uniraja.BPMPathway,"a full user guide is available to download from 
+
+about bpmpathway for patients.",['STORAGE']
+26,bloodsugar.bloodsugarapp.diabetes.diabetesapp,"blood sugar app makes it easy and fast to record, monitor blood glucose, and manage your diabetes!",['MICROPHONE']
+27,bloodsugar.bloodsugarapp.diabetes.diabetesapp,"useful blood glucose knowledge and health advice for managing diabetes
+  quick historical reports exporting to share directly with your doctor 
+  data backup securely even when changing device
+  use or switch two different blood glucose level units (mg/dl or mmol/l)
+
+record blood sugar easily
+no paper and pen are required.",['STORAGE']
+28,bloodsugar.bloodsugarapp.diabetes.diabetesapp,"safely backup all records
+there is no worry about losing your data when switching to another device.",['STORAGE']
+29,bloodsugar.bloodsugarapp.diabetes.diabetesapp,sync and restore all your records with one click.,['STORAGE']
+30,bloodsugar.bloodsugarapp.diabetes.diabetesapp,"by exporting all records, it will be convenient to provide your doctor with blood glucose data.",['STORAGE']
+31,com.bodytemperatureThermometer.feverRecordsdiary,first launch the application and then enter the values and press the save button to maintain the records and later view these records.,['STORAGE']
+32,com.bodytemperatureThermometer.feverRecordsdiary,once user enter the records the application start maintaining the records as the user can later view these records in various formats with all additional information.,['MICROPHONE']
+33,com.bodytemperatureThermometer.feverRecordsdiary,view records as per your convenience and modify the settings of the application if you want to.,['SETTINGS']
+34,com.bodytemperatureThermometer.feverRecordsdiary,this application is like medical record keeping book that will not only save the records but will save the additional information associated with it.,['STORAGE']
+35,com.fullpower.applications.serenity,"sleep cycle alarm
+optionally select white noise that gently fades away after you've fallen asleep, then set a sleep cycle alarm that will help you wake up at the optimal time in your sleep cycle so you wake up refreshed and more energized.",['SETTINGS']
+0,com.bearable,sync health data automatically.,"['STORAGE', 'CONTACTS']"
+1,com.bearable,restore data across devices.,['STORAGE']
+2,com.changyow.iconsole4th,"how it works 
+-	selected reebok treadmills, bikes and cross trainers connect with the app via bluetooth; allowing you to monitor your training without the need for gps or internet connectivity.",['SETTINGS']
+3,com.codium.hydrocoach,"main features: 
+
+- hydration goal calculator: determine your personal hydration goal based on age, weight, lifestyle, and current weather.",['LOCATION']
+4,com.codium.hydrocoach,"- sync & compatibility: easily synchronize your drinking logs with fitbit, samsung health and google fit.",['CONTACTS']
+5,com.codium.hydrocoach,download hydro coach now and take control of your hydration this winter.,['STORAGE']
+6,com.body.thermometer.fever.temperature,body temperature tracker gives you the maximum & minimum range of the given values in the app to store the previous records and gives you the information about your body temp which are given according to the thermometer.,['CAMERA']
+7,com.body.thermometer.fever.temperature,"features:-
+1. enter body temperature with age and name
+2. track list of temperatures with estimated result
+3. track body temperature in graph
+4. check your room temperature
+5. view your indoor room/home/house temperature
+6. view outdoor temperature and humidity
+7. add events to your calendar and get reminded
+8. export your body thermometer data as a cvs-file
+
+if your doctor recommends you to track body temperature, this app is a good fit to log it.",['CALENDAR']
+8,com.FriendsApp.pillidentifieranddrugsearch,"key features of pill identifier and drug search:
+
+  * lets you identify pills with image, imprint number, shape and color
+  * allows you to search medicines
+  * provides information about drugs
+  * drug interaction
+  * diseases search
+  * customizable medication schedules
+  * symptom checker
+  * drug side effects
+  * drug price guide
+  * store prescriptions
+  * lets you bookmark drug information
+  * drug index a to z
+  * search nearby doctors
+  * lets you calculate body mass index (bmi)
+  * basal metabolic rate calculator (bmr)
+  * body fat percentage calculator (bfp)
+  * ideal body weight calculator (ibw)
+  
+
+when you search nearby doctors, the app offers you a list of many doctors, with information on address, contact number, reviews, and opening hours for each doctor.",['LOCATION']
+9,com.FriendsApp.pillidentifieranddrugsearch,download the app now!!,['STORAGE']
+10,com.FriendsApp.pillidentifieranddrugsearch,"permissions:
+* we need access to your camera to allow scan your pill image.",['CAMERA']
+11,com.bluesparktechnologies.temptraq.outpatient,"for clinical use only
+
+temptraq is a bluetooth continuous temperature monitor in the form of a one-time use, disposable patch.",['SETTINGS']
+12,com.bluesparktechnologies.temptraq.outpatient,"the patch senses, records and transmits body temperature via bluetooth version 4.0. temperature information from the patch is monitored using a smart device (apple or android with bluetooth version 4.0 capability running the temptraq app).",['SETTINGS']
+13,com.bloodsugarmonitor.diabetes.bloodsugar,"enter, save, and update your diabetes readings on the app:
+0,com.elite.myetraining,- bluetooth smart sensors compatibility (depending on the android device).,['SETTINGS']
+1,com.elite.myetraining,"now your data is in the cloud, and synchronized between your devices.",['STORAGE']
+2,com.elite.myetraining,"save, share and export all training data to evaluate your performance level and improvements 
+
+check on configuro.elite-it.com if or what hardware is necessary to use the myetraining (my e-training).",['STORAGE']
+3,com.centr.app,your play store account will automatically be charged within 24 hours prior to the end of the current period.,['CONTACTS']
+4,com.beachbody.bod,you can subscribe and pay through your google play account.,['CONTACTS']
+5,com.beachbody.bod,prices will vary by location.,['LOCATION']
+6,com.codecandy.androidapp.fooddiary,"from ibs) with just a few taps
+- access unlimited access to our best in class food tracker and symptom tracker
+- save time by using our food scanner, and huge food database if you follow low fodmap, gluten free, or other diets
+- track bloating, constipation, diarrhea, pain, and other ibs symptoms, or create your own symptoms
+- record important information about your mood, energy and digestion
+- see the allergens you’ve eaten each day in your dashboard
+- create custom allergens
+- see food on your best and worst days in your calendar
+- share your app data easily with your primary care provider or gastroenterologist
+- access a library of articles for living with ibs or any other food allergy
+
+not just for ibs, moodbites is designed for people suffering from food allergies, food sensitivity symptoms, food intolerances and chronic gut conditions such as irritable bowel syndrome (ibs), ibd (crohn's disease, ulcerative colitis and microscopic colitis).",['CALENDAR']
+7,com.creamsoft.mygi,"* glycemic load list
+* carbohydrates content list
+* fiber content in foods and net carbs calculator
+* ai recipes generator
+* google fit support which helps to sync measurements with electronic scales, glucometers and blood pressure monitors
+* meal content calculator
+* food diary to keep track of your food, glycemic load and carbs consumption
+* statistics with averages for daily, weekly, monthly and yearly periods
+* beautiful charts of the gl and carbs consumption over time
+* unlimited number of measurements
+* future additions to the food tracker, charting and stats
+* import/export all your data to backup or sync between devices
+* export to csv for offline analysis and send via email (e.g.",['STORAGE']
+8,com.bloodpressure.health.healthtracker,"detect heart rate:
+detect your heart rate by using your smartphone camera with photoplethysmography (ppg).",['CAMERA']
+9,com.bloodpressure.health.healthtracker,how exactly does camera measurement work?,['CAMERA']
+10,com.bloodpressure.health.healthtracker,"during the measurement, a flashlight shines on the tissue of your finger, and a camera captures video of your blood volume changes, capturing snippets of your heartbeat.",['CAMERA']
+11,com.bloodpressure.health.healthtracker,"local weather forecast:
+provides real-time local weather forecasts, including 48-hour forecasts, 15-day forecasts, wind, air pressure, precipitation, uv index, humidity, visibility, air quality, etc.",['LOCATION']
+12,com.autonomhealth.hrv,"24h measurement of your heart rate variability with all bluetooth sensors like polar, suunto etc., but also the autonom health system.",['SETTINGS']
+13,com.autonomhealth.hrv,"thanks to the integrated memory, the autonom health sensor sends data even while swimming, diving, climbing, sleeping and whenever you want to be without your smartphone.",['STORAGE']
+14,bloodpressuremonitor.bloodpressureapp.bpmonitor,the smart bp recorder & bp source are here for you to use with great ease.,['MICROPHONE']
+15,bloodpressuremonitor.bloodpressureapp.bpmonitor,"our fantastic features:
+save, edit or update readings
+find writing down bp readings annoying?",['STORAGE']
+16,bloodpressuremonitor.bloodpressureapp.bpmonitor,"besides, you can edit, save, update or delete measurement values at ease via fast keyboard data entry.",['STORAGE']
+17,com.dynasthetics.vitalsbridge,"the vitalsbridge connector app, allows a user to control the vital signs simulated by the vitalsbridge via bluetooth or wifi.",['SETTINGS']
+18,com.bestfuncoolapps.TakeYourPills,download and use pill reminder & medication tracker – takeyourpills today!,['STORAGE']
+0,com.ellisapps.itrackbitesplus,simply scan the barcode or search your food in our food database to find out how many bites / calories / macros / net carbs your meal is.,['CAMERA']
+1,com.ValuxAppointment,video calling and voice call ui app screens added with appointments booking options.,"['CAMERA', 'MICROPHONE', 'PHONE']"
+2,be.foxtastic.medicalrecord,"keep a log of your pet's health-related data in medika, update the information and monitor his health.",['STORAGE']
+3,com.chipsea.btcontrol.en,"okok healthcare management, an application for use with the smart bluetooth scale, records and manages your body weight measurement results.",['SETTINGS']
+4,com.chipsea.btcontrol.en,"with this app, you can use the bluetooth scale to check and manage various health indices for body weight, body fat, body water, muscle and etc.",['SETTINGS']
+5,com.funlika.eyeworkout,• convenient setting of training notifications.,['SETTINGS']
+6,com.diagnoptics.ageapp.myagenow,the age scanner non-invasively measures the tissue level of advanced glycation end products (ages) and sends the measurement result to the myagenow app through bluetooth.,['SETTINGS']
+7,com.diagnoptics.ageapp.myagenow,"this app only works on mobile devices supporting bluetooth low energy(4.1 or higher)
+
+disclaimer: this statement has not been evaluated by the fda.",['SETTINGS']
+8,com.foracare.tdlink.sm,"for blood glucose, blood pressure, temperature, weight, spo2 and blood test (ketone)
+ 
+key features:
+• easily pairs with fora bluetooth smart meters
+• customizable: choose the parameters you are measuring
+• ability to input additional data such as nutrition, exercise, medication and insulin
+• view measurements individually or in charts and graphs
+• flexible user interface
+• see out-of-range data by color
+• customized settings for the user
+• easily share data with family or caregivers",['SETTINGS']
+9,com.bluefish.heartrate,2. you can turn off hot flashlight.,['CAMERA']
+10,com.bluefish.heartrate,"(top-right flashlight icon)
+    3. unlimited measurements.",['CAMERA']
+11,com.bluefish.heartrate,"support auto backup (> android 6.0) and free csv export 
+
+ how to use our heart rate monitoring app 
+* our app uses your phone's camera to check bpm.","['STORAGE', 'CAMERA']"
+12,com.bluefish.heartrate,"just gently cover your fingertip on the back camera lens and stay still, then your heart beat will be counted after a few seconds.",['CAMERA']
+13,com.bluefish.heartrate,"when you turn off flashlight, please measure in sunlight or bright region.",['CAMERA']
+14,com.cashwalklabs.cashwalk,"free step counter
+· no gps tracking, works for indoor & outdoor activities like walking , running and other exercises!",['LOCATION']
+15,bike.trimm.rideWithMe,- compatible with various bluetooth sensors.,['SETTINGS']
+16,bike.trimm.rideWithMe,openstreetmap based online map with the offline map cache.,['LOCATION']
+17,bike.trimm.rideWithMe,- offline map cache.,['STORAGE']
+18,bike.trimm.rideWithMe,offline map cache allows you to use a map in the area where you have no network reachable!,"['STORAGE', 'LOCATION']"
+19,bike.trimm.rideWithMe,"*
+*route planning is available only online.",['LOCATION']
+0,com.choicemmed.oximspo2,your blood oxygen level and pulse rate are easily recorded with the app through bluetooth.,['SETTINGS']
+1,com.choicemmed.oximspo2,download the app and connect your device to the pulse oximeter with bluetooth.,['SETTINGS']
+2,app.mindshine,your account is charged with each new subscription period at some point within 24 hours before your subscription expires.,['CONTACTS']
+3,com.diet.plan.weight_loss,download this app now!,['STORAGE']
+4,com.betterhelp,you can also schedule a weekly session to speak live with your therapist over video or phone.,['MICROPHONE']
+5,com.betterhelp,"the cost of therapy through betterhelp ranges from $60 to $90 per week (billed every 4 weeks) but may be higher based on your location, preferences, and therapist availability.",['LOCATION']
+6,blue.wattson.app,"please note: hrv recording using camera is not supported on some android phones (due to camera or flash setup) - as such you may not be able to use the camera to record your hrv, but you should still be able to use many other features!",['CAMERA']
+7,blue.wattson.app,"you can track your hrv using the camera on your phone, or if you have an oura ring, you can link this to automatically sync your hrv and sleep with wattson blue.",['CAMERA']
+8,blue.wattson.app,"features to help you train smarter:
+
+** daily subjective, sleep and nutrition metrics
+** hrv and resting heart rate using your phone’s camera
+** training, recovery and readiness to train feedback
+** sync your training from strava
+** sync your sleep and hrv from oura ring
+** training load (tss) using power, hr (trimp), pace and rpe
+** fitness/fatigue/form (ctl/atl/tsb)
+** time spent in zones 
+** peak heart rate, power, speed, and pace curves (premium)
+** set rpe for each activity (borg rate of perceived exertion)
+** current week’s summary 
+** comparison to other athletes
+** female athletes: period tracking
+
+****go premium : ****
+
+new wattson blue athletes receive a 3-week free trial to wattson blue premium.",['CAMERA']
+9,com.formathletica.formandroid,built for the form smart swim goggles.,['CAMERA']
+10,com.formathletica.formandroid,"3. length-by-length instructions - at the pool, let your goggles guide you through your swim with instructions and progress updates.",['CAMERA']
+11,com.formathletica.formandroid,connect your goggles to a supported apple watch or garmin smartwatch to get gps-based metrics in open water.,['LOCATION']
+12,com.formathletica.formandroid,"alternatively, use the goggles independently for a unique open water experience.",['CAMERA']
+13,com.doctorcareanywhere.nuffield,"just activate your account and login through your device, find a time that works for you and book your appointment instantly.",['CONTACTS']
+14,com.doctorcareanywhere.nuffield,"24/7 secure access to your patient record
+you can access your patient record at any time, update it as necessary and use it to download notes and referrals for future consultations.",['STORAGE']
+15,com.empatica.healthmonitor,the care app receives physiological data collected by embraceplus via bluetooth and transmits this data to the cloud for review and download by a professional.,['SETTINGS']
+16,aim.aiminmed.server.aimarm,"sphinctopress works as sphinctometer or anal tonometer for monitoring ano rectal pressures in different conditions like rest, squeeze, cough, hold, etc... as well as bio feedback device for sphincter muscle training.",['MICROPHONE']
+17,com.dailyyoga.inc,"download your favorite classes！  
+download yoga class for offline use and take it with you anywhere.",['STORAGE']
+18,com.doctorondemand.android.patient,connect face-to-face with board-certified providers and licensed therapists over live video on your smartphone or tablet.,"['CAMERA', 'MICROPHONE']"
+19,com.aukey.wearbuds,8) your wearbuds can be found on your phone within range of bluetooth communication.,['SETTINGS']
+20,com.charmcare.healthcare,"(２)	bluetooth pairing: the data is sent in pairing with the h2-bp
+(３)	blood pressure: you can view the data in a graph/list and input the measured blood pressure data directly.",['SETTINGS']
+21,com.charmcare.healthcare,(６)	data export: the stored blood pressure data can be saved as an excel file.,['STORAGE']
+22,com.charmcare.healthcare,"3.	required permissions
+(１)	storage space: the appropriate permissions are required for file processing to input user information/blood pressure/weight.",['STORAGE']
+23,com.charmcare.healthcare,(２)	camera: camera permissions are required to change the profile picture of user information.,['CAMERA']
+24,com.charmcare.healthcare,(３)	location information: pairing with the h2-bp blood pressure system using bluetooth requires android authority and location information.,"['LOCATION', 'SETTINGS']"
+25,com.cliniconline,"you can use this android medical records app to easily save anamnesis,  patient records, patient history, health information.",['STORAGE']
+26,com.cliniconline,"through your mobile or your pc
+
+features:
+* according to your needs, choose to store your medical data  either in your device memory or on a secure cloud storage where data sync is enabled.",['STORAGE']
+27,com.cliniconline,"* supports multiple screens; phones, small and large size tablets
+* works on chromebook system
+* backup your data 
+* manages appointments
+* username and password authentication
+*  export medical data to excel sheet, pdf and graphs
+* attach medical documents of any type (pdf, word ...etc) or capture it using camera or video recording.","['STORAGE', 'CAMERA']"
+28,com.cliniconline,* most of the data are stored using the auto-complete technique.,['STORAGE']
+29,com.cliniconline,"* stores patient’s address: latitude, longitude using  maps
+* the availability to launch google maps navigation to drive to the (patient & doctor & hospital)  stored address starting from your current location
+* medical history reports
+* multiple search techniques:
+    * by name  or phone number
+    * by visit date 
+    * by appointment date
+* records video or image capture for medical activities, with or instead of writing text.",['LOCATION']
+30,com.cliniconline,"* pick up medical document stored as picture or video from image gallery
+* capability of adding patient information via the device contact list; if the patient info is on the device contacts list
+* physicians can use the app in their clinics for private practice management as a clinic information system, clinic management system, doctor patient medical record, healthcare management mobile application, patient medical records to track patient history, electronic medical records (emr), electronic health records (ehr).",['CONTACTS']
+31,com.drmaxmuscle.dr_max_muscle,download to start your trial.,['STORAGE']
+32,com.endel.endel,all modes are available offline.,['STORAGE']
+33,com.bravetheskies.ghostracer,"beat your personal best or compare against anyone from the leaderboard
+•race against or navigate with gpx files 
+•ghosts start and stop automatically keeping you free to ride/run
+•receive live feedback with audio updates of split times and distance
+•customise your display to show information you want to know
+•switch between google maps and mapbox maps for your preferred map
+•select mapbox maps to displays trails and footpaths from open street maps
+•segments and routes are displayed on maps keeping you going in the right direction 
+•upload your activity straight to strava, smashrun or run keeper.",['LOCATION']
+34,com.bravetheskies.ghostracer,•export .gpx or tcx files.,['STORAGE']
+35,com.bravetheskies.ghostracer,"•ant+ and bluetooth low energy (btle) sensors supported:
+	speed, cadence, speed/cadence combined, power and heart rate monitors*
+•stryd footpod support showing power while running
+
+wear os:
+full support for standalone gps tracking with gps enabled watches like the  sony smartwatch 3 and moto 360 sport.",['LOCATION']
+36,com.bravetheskies.ghostracer,the android wear app also supports bluetooth low energy (4.0) peripherals like heart rate sensors and inbuilt sensors.,['SETTINGS']
+37,com.bravetheskies.ghostracer,"the wear app also supports non gps enabled watches when paired to a phone,  working in a mirrored mode allowing you to control and see the phones recording.",['LOCATION']
+38,com.bravetheskies.ghostracer,ghostracer allows you to use your gps android wear device as a fully usable cycling computer.,['LOCATION']
+39,com.bravetheskies.ghostracer,"other peripherals:
+•wahoo rflkt - customise two screens of data with a segment complete page
+
+premium features:
+•download offline maps from mapbox maps making a truly offline experience on both phone and watch
+•add more fully customise android wear screens
+•have unlimited ghosts enabled per activity
+
+the ghostracer google community: 
+
+ghost racer
+*sensors support where available.",['STORAGE']
+40,com.bravetheskies.ghostracer,bluetooth low energy requires android 4.3 and up.,['SETTINGS']
+41,com.decathlon.decathlonconnect,"◆
+analyze all your sports sessions: speed curve, heart rate and route mapping for gps watches.",['LOCATION']
+42,com.decathlon.decathlonconnect,with precision thanks to the integrated heart rate monitor and gps.,['LOCATION']
+43,com.decathlon.decathlonconnect,"▸cw700 hr: accessible smartwatch with inbuilt heart rate and sleep monitor
+▸oncoach 900: daily activities; sleep quality; speed and distance measurement designed for walkers
+▸oncoach 900 hr: same as above with an optical heart rate sensor designed for joggers
+▸onmove 200, 220: gps watches available to everyone
+▸onmove 500 hrm: gps watch equipped with an optical heart rate sensor
+▸bc900 : gps bike computer
+▸scale 700: scale with impedance meter
+▸vrgps 100: simple gps bike computer",['LOCATION']
+44,com.clubfootsolutions.clubfoot,"the calendar and daily statistics display also provide the ability for people to see when goals are attained, missed or partially obtained.",['CALENDAR']
+0,za.co.healthip.mobile.bestmedmember,"this includes information regarding but not limited to:
+
+•	membership policy information
+•	personal statements
+•	correspondence with bestmed
+•	your personal benefits
+•	key contact information
+•	savings balances
+
+it also provides you as a member with a range of useful and interactive tools that are consistently advancing.",['CONTACTS']
+1,za.co.healthip.mobile.bestmedmember,"including records of interactions with contact centre agents, recent statements, claims and pre-authorisations.",['CONTACTS']
+2,za.co.healthip.mobile.bestmedmember,network healthcare provider search: using gps location you are able to find family practitioners or specialists close to you.,['LOCATION']
+3,za.co.healthip.mobile.bestmedmember,"submit claims: simply snap an image of the invoice and receipt via the app using your phone’s camera, then submit to bestmed for effective processing.",['CAMERA']
+4,net.srey.android.glycemia,"- store the data in a csv historical file, semi-colon separated, under sdcard/glycemia/total_history.log (format : timestamp yyyymmdd hh:mm:ss ; mmol/l corrected; mg/dl corrected; mg/dl raw value from sensor).",['STORAGE']
+5,sg.edu.nuhs.onenuhs,"ltd. (formerly known as integrated health information systems pte ltd), users will be able to access health information and services across the following nuhs institutions: 
+•	national university hospital
+•	ng teng fong general hospital
+•	alexandra hospital
+•	jurong community hospital
+•	national university polyclinics
+•	national university heart centre, singapore
+•	national university cancer institute, singapore
+•	national university centre for oral health, singapore
+•	jurong medical centre
+
+patients will be able to:
+•	manage their appointments and receive notifications for appointment reminders 
+•	register on the go and check their queue status
+•	request for medication refills or top-ups 
+•	purchase and download their medical reports directly from the app 
+•	view and make payment for outstanding bills 
+•	access the app using biometric data such as fingerprint and facial recognition
+•	link to ‘myinfo’ in singpass for a more convenient set up of ‘my profile’
+•	pre-fill appointment and medication request forms with their contact details once ‘my profile’ has been set up
+•	enable caregiver consent to access functions of the app
+•	view health records such as lab test results, immunisation and prescription records
+•	obtain recommendations on health screenings and vaccinations based on their demographics and health status
+•	interact with the chatbot to obtain information on clinic operating hours and other commonly asked questions
+
+onenuhs app uses google fit and healthkit to access health information via your health devices.",['CONTACTS']
+6,io.strongapp.strong,"• export all of your data to email in csv format
+
+strong terms of service - 
+strong privacy policy -",['STORAGE']
+7,nl.mondmaatje.app,"key features:
+the dental prevention app
+personalised teeth view
+visual risk profile of dental problems
+dpsi / plaque index / bleeding index / smoking
+individual assistance & support
+implant passport
+motivational messages
+reminder function
+brushing timer child / adult
+animation instructional videos
+link to your dentist / dental hygienist 
+purchase recommended oral hygiene products through the web shop
+answers to frequently asked questions
+brushing-selfie
+setting goals and planning
+medication and rinse alarm 
+receive instructions / information documents from your care provider",['CAMERA']
+8,za.co.oldfort.mobile.swazimed,"this free app – developed for swazimed members – brings you convenient and easy access to emergency and key contact details, information regarding your policy, statements, benefits, savings balances and more.",['CONTACTS']
+9,za.co.oldfort.mobile.swazimed,"including records of interactions with contact centre agents, recent statements.",['CONTACTS']
+10,za.co.oldfort.mobile.swazimed,"simply snap a picture of the invoice and receipt with your phone’s camera, zoom in and make sure the whole page is readable and then submit.",['CAMERA']
+11,nl.rubus.vanraam.dashboardapp,"in addition, you can send an sos message in the form of a text message with your gps position, the location where you are.","['LOCATION', 'SMS']"
+12,smart.kegel.exercises.men,and all you have to do to achieve these results is download the kegel trainer.,['STORAGE']
+13,xyz.rtrvr.pillo,"12. robust data backup & sync
+depend on pillo for secure and reliable backup and synchronization of your medication data across devices.",['STORAGE']
+14,workoutforwomen.femalefitness.womenworkout.loseweight,sync data with google fit.,['CONTACTS']
+0,vladimir.yerokhin.medicalrecord,"- simplified registration/authorization at the start of the work with the application (by e-mail, social networks, or google account).",['CONTACTS']
+1,vladimir.yerokhin.medicalrecord,"- existence of medical databases for provisional medical information input (hospitals, doctors' contact details, names of drugs, diagnoses, analyses types, medical recommendations) for putting already existing medical history.",['CONTACTS']
+2,vladimir.yerokhin.medicalrecord,"- calendar of events (taking of pills, visits to doctors, lab tests)
+- synchronization of data, safe data storage on the google servers.",['CALENDAR']
+3,jp.co.nissei_kk.healstyle,"3. can set an alarm for starting measurements up to twice a day, and displays an alarm notification on the android device.",['SETTINGS']
+4,jp.co.nissei_kk.healstyle,5. automatically corrects internal clock data when the blood pressure gauge data is transferred over bluetooth.,['SETTINGS']
+5,jp.co.nissei_kk.healstyle,(bluetooth low energy).,['SETTINGS']
+6,jp.co.nissei_kk.healstyle,"- compatible models
+blood pressure monitor : ds-s10, ws-x10btj (as of september 2019)
+- compatible os
+android4.3 or later and bluetooth4.0 or later 
+
+pulse oximeter app features
+
+1. displays blood oxygen saturation level, pulse rate data, and perfusion index values numerically and graphically, enabling users to manage their daily health easily.",['SETTINGS']
+7,jp.co.nissei_kk.healstyle,"4. if automatic recording is enabled from the settings screen, measured values are automatically recorded every 10 seconds once measurement begins.",['MICROPHONE']
+8,jp.co.nissei_kk.healstyle,5. transfers data is using wireless.,['STORAGE']
+9,jp.co.nissei_kk.healstyle,(bluetooth low energy).,['SETTINGS']
+10,jp.co.nissei_kk.healstyle,"- compatible models
+pulse oximeter : bo-750bt (as of june 2016)
+- compatible os
+android4.3 or later and bluetooth4.0 or later 
+
+non contact thermometer app features
+
+1. can display forehead temperature and room temperature both numerically and graphically, enabling users to manage their health.",['SETTINGS']
+11,jp.co.nissei_kk.healstyle,3. transfers data is using wireless.,['STORAGE']
+12,jp.co.nissei_kk.healstyle,(bluetooth low energy).,['SETTINGS']
+13,jp.co.nissei_kk.healstyle,"- compatible models
+non contact thermometer: mt-500bt (as of june 2016)
+- compatible os
+android4.3 or later and bluetooth4.0 or later",['SETTINGS']
+14,samobile.droid,"data from mos or tas serial numbered devices can then be captured via bluetooth and uploaded to the study database, visible on the centrepoint dashboard.",['SETTINGS']
+15,samobile.droid,this application is only supported by phones with bluetooth 4.0 low energy and android 4.3 jelly bean or greater.,['SETTINGS']
+16,pedometer.stepcounter.calorieburner.pedometerforwalking,"no gps tracking, so it can greatly save battery.",['LOCATION']
+17,pedometer.stepcounter.calorieburner.pedometerforwalking,"no gps tracking, so it barely consumes battery power.",['LOCATION']
+18,pedometer.stepcounter.calorieburner.pedometerforwalking,"whether your phone is in your hand, bag, pocket or armband, it can auto-record your steps even your screen is locked.",['MICROPHONE']
+19,pedometer.stepcounter.calorieburner.pedometerforwalking,"samsung health & google fit
+can't your steps tracking app sync data to samsung health & google fit?",['CONTACTS']
+20,pedometer.stepcounter.calorieburner.pedometerforwalking,it makes syncing data to samsung health & google fit easy.,['CONTACTS']
+21,net.airmedic.olive,"talk to a doctor online today, whether you're at work, at home, or on vacation.",['MICROPHONE']
+22,org.iggymedia.periodtracker,- accurate menstrual tracker: log your period start date in flo’s calendar.,['CALENDAR']
+23,org.iggymedia.periodtracker,"***
+
+flo for partners
+link your flo account with your partner so he can see your cycle or pregnancy updates!",['CONTACTS']
+24,org.iggymedia.periodtracker,"- secret chats: safely discuss intimate topics like fertility, birth control, discharge, and irregular cycles.",['MICROPHONE']
+25,me.klarify.klara,"reasons to choose our our award-winning pollen & allergy app
+-	log how you’re feeling and get insights into how your hay fever affects you 
+-	use your allergy log to compare how different types of pollen have affected you
+-	identifying what sets off your hay fever can help you manage it better
+-	know what to expect from the weather and air quality for your location
+-	get reliable forecasts for your location so you can plan ahead
+-	be able to plan your day around the pollen levels
+-	get alerts when pollen levels change in your area so you can take precautions
+-	check the allergy calendar to see an overview of the year's typical pollen levels
+-	find out more about pollen allergy triggers, allergy diagnosis and treatment
+
+your pollen allergy tracker
+klarify allows you to log how you feel daily and track how your hay fever affects you over time.",['LOCATION']
+26,me.klarify.klara,"accurate pollen levels in your location
+if you want to know what kind of pollen is in the air today, the klarify app can give you all the info you need.",['LOCATION']
+27,me.klarify.klara,"location-based weather and air quality
+klarify is an app that tells you about the air quality and weather near you.",['LOCATION']
+28,me.klarify.klara,"the app also tells you the local temperature, humidity, and wind conditions.",['LOCATION']
+29,net.workout.lose.weight.fitness.fit.coach,further use requires a subscription.,['STORAGE']
+30,net.beginners.weight.loss.workout.women.yoga.go,further use requires a subscription.,['STORAGE']
+31,nl.appyhapps.healthsync,"you can sync to diabetes:m, fitbit, google fit, health connect, samsung health, schrittmeister, fatsecret (weight only), runalyze, smashrun, strava or under armour (mapmyrun etc.).",['CONTACTS']
+32,nl.appyhapps.healthsync,"activity data can also be synced as fit, tcx or gpx file to google drive.",['CONTACTS']
+33,nl.appyhapps.healthsync,health sync works automatically and syncs the data in the background.,"['STORAGE', 'CONTACTS']"
+34,nl.appyhapps.healthsync,it will sync data from the time you first use the app.,['STORAGE']
+35,nl.appyhapps.healthsync,"watch out: huawei says they won't let apps like health sync access gps info from huawei health if you connect them after july 31, 2023. but right now, they're not enforcing this rule, so your activity gps data will likely still sync.",['LOCATION']
+36,nl.appyhapps.healthsync,"what data you can sync depends on the source app from which you sync data, and the destination app(s) to which you sync the data.",['STORAGE']
+37,nl.appyhapps.healthsync,"for example: sync activities from garmin to samsung health, and sync sleep from fitbit to samsung health and google fit.",['CONTACTS']
+38,steptracker.healthandfitness.walkingtracker.pedometer,"the most accurate & simple step tracker auto tracks your daily steps, burned calories, walking distance, duration, pace, health data, etc., and display them in intuitive graphs for easy checking.",['LOCATION']
+39,steptracker.healthandfitness.walkingtracker.pedometer,"real-time map tracker
+in gps tracking mode, step counter tracks your fitness activity in detail (distance, pace, time, calories), and records your routes on the map with gps in real-time.",['LOCATION']
+40,steptracker.healthandfitness.walkingtracker.pedometer,support for syncing data with google fit.,['CONTACTS']
+41,steptracker.healthandfitness.walkingtracker.pedometer,"more features coming soon, such as sync data with fitbit, samsung health, myfitnesspal...
+
+important notes
+
+* to ensure accurate step counting, make sure the information you entered on the settings page is correct.",['CONTACTS']
+42,sleeptrakcer.sleeprecorder.sleepapp.sleep,"sleep tracker is your personal sleep cycles monitor, snore recorder, and sleep sounds provider.",['MICROPHONE']
+43,sleeptrakcer.sleeprecorder.sleepapp.sleep,"listen to night voices
+are you curious about if you snore or talk in dreams at night?",['MICROPHONE']
+44,sleeptrakcer.sleeprecorder.sleepapp.sleep,get your nighttime voice recordings here.,['MICROPHONE']
+45,sleeptrakcer.sleeprecorder.sleepapp.sleep,you can also share those funny recordings with your friends.,['MICROPHONE']
+46,sleeptrakcer.sleeprecorder.sleepapp.sleep,customize your smart alarm to be gently wakened up at the light sleep phase and choose various alarm ringtones to feel refreshed and energized.,['SETTINGS']
+47,sleeptrakcer.sleeprecorder.sleepapp.sleep,download sleep tracker to end all of your sleep troubles.,['STORAGE']
+48,net.futasaji.medicine,you can also set the time and it will remind you with an alarm to help prevent you from forgetting to take your medicine.,['SETTINGS']
+49,net.futasaji.medicine,it's easy to use... just press the record button after you have taken (or used) your medication!,['MICROPHONE']
+50,io.sensoria.ahora,note: this app requires permission to use the location service in the background for the use of bluetooth.,"['LOCATION', 'SETTINGS']"
+51,periodtracker.pregnancy.ovulationtracker,"never lose data
+★ your anonymous data can be sync to your personal cloud account in an encrypted manner.",['CONTACTS']
+52,periodtracker.pregnancy.ovulationtracker,★ you can confidently back up and restore your data as needed.,['STORAGE']
+53,periodtracker.pregnancy.ovulationtracker,"with just one click, you can easily delete all data.",['STORAGE']
+54,in.sweatco.app,"that means that, unlike other apps, we don’t track your location and we don’t have to share any information with a third party.",['LOCATION']
+55,se.pond.air,it seamlessly connects with your smartphone or tablet via bluetooth low energy technology.,['SETTINGS']
+56,io.foodvisor.foodvisor,"unmatched features 
+
+1. calorie tracker: with our instant food recognition camera, simply snap a photo of your meal or scan a barcode, and foodvisor will instantly provide you with detailed information about the nutrients (macros and micros) and calories in your dish.",['CAMERA']
+57,itouch.wearables,"additional features*
+camera remote, vibrating alarms, music remote,, weather forecast, find your watch, and more!",['CAMERA']
+58,itouch.wearables,"permissions
+for use of all app features, we require the following permissions:
+camera
+contacts
+location
+storage
+bluetooth
+call logs
+read phone state
+process outgoing calls
+*no information shared with third parties","['STORAGE', 'CONTACTS', 'CAMERA', 'CALL_LOG', 'PHONE', 'SETTINGS']"
+0,wako.pedometer.stepcounter,this free pedometer – calorie counter app does not use the movement of your mobile phone or your location.,['LOCATION']
+1,pasesa_health.apk,"【cloud backup/ cloud restore】
+provide convenient cloud backup/ cloud restore service
+【the family interaction】
+provide various forms of health data sharing function, convenient relatives and friends in a timely manner to understand the health of the relatives;to enhance the family love.","['STORAGE', 'CONTACTS']"
+2,pasesa_health.apk,"【 remind function 】
+set 4 set of timing alarm clock, remind relative timing measurement cardiovascular hardness index , blood pressure data.",['SETTINGS']
+3,running.tracker.gps.map,you can get audio feedback from the voice coach.,['MICROPHONE']
+4,running.tracker.gps.map,"it tracks running stats, records routes with gps in real time, and helps improve your running performance with detailed analysis and insight graphs.",['LOCATION']
+5,running.tracker.gps.map,"sync data
+you can sync all your running and training data to your account, routes, distance, time, speed, calories, etc.","['STORAGE', 'CONTACTS']"
+6,running.tracker.gps.map,"• map your route - with gps running tracker, you can record your routes with gps, save your paths and share your route maps with friends.",['LOCATION']
+7,running.tracker.gps.map,"• get audio feedback - get audio feedback (duration, distance, calories, pace, etc) from the voice coach to take control of your training and improve your performance.",['MICROPHONE']
+8,running.tracker.gps.map,"gps running tracker
+want a gps running tracker to track run?",['LOCATION']
+9,running.tracker.gps.map,try this gps running tracker to track run and get your run map.,['LOCATION']
+10,running.tracker.gps.map,"this map running app and run tracker accurately track run on the map with gps in real time, and provides you run map.",['LOCATION']
+11,running.tracker.gps.map,"distance tracker for running
+this run tracker and map running app track your distance tracker for walking and your distance tracker for running.",['LOCATION']
+12,running.tracker.gps.map,"it's not only a run tracker, but also a run gps tracker to track running.",['LOCATION']
+13,running.tracker.gps.map,use the best run gps tracker and jog tracker to track your distance tracker for walking and your distance tracker for running.,['LOCATION']
+14,running.tracker.gps.map,lose weight and keep fit with this run gps tracker.,['LOCATION']
+15,stepcounter.pedometer.stepstracker,"backup & restore
+you can back up your data to the cloud and restore it anytime.","['STORAGE', 'CONTACTS']"
+16,stepcounter.pedometer.stepstracker,"step counter offline app
+as a powerful step counter offline app, it can auto & accurately track your steps, calories and distance offline.",['LOCATION']
+17,stepcounter.pedometer.stepstracker,"google fit
+want a pedometer to sync data to google fit?",['CONTACTS']
+18,stepcounter.pedometer.stepstracker,"as your best walking companion, it can easily sync your data to google fit.",['CONTACTS']
+19,info.plux.opensignalsmobile,it has been designed to work seamlessly using either bluetooth (bt) or bluetooth low energy (ble) connectivity.,['SETTINGS']
+20,info.plux.opensignalsmobile,• all the acquired data may be saved directly on your phone in .txt file format.,['STORAGE']
+21,pl.znanylekarz,all you need is a phone call for videoconsultations.,['CAMERA']
+22,pl.znanylekarz,"turn on geolocation on your phone, select ""see on the map"" and browse the specialists nearby.",['LOCATION']
+23,pl.znanylekarz,"make appointments online, without calling.",['CALENDAR']
+24,pl.znanylekarz,"find the best specialists near you and book appointments quickly, no matter where you are.",['LOCATION']
+25,org.angel.heartmonitorfree.activities,get voice feedback while doing the workout and keep your records.,['MICROPHONE']
+26,org.angel.heartmonitorfree.activities,"features: 
+-compatible with heart rate monitors zephyr hxm bluetooth, polar wearlink + bluetooth (experimental!!",['SETTINGS']
+27,org.angel.heartmonitorfree.activities,"and bluetooth smart heart monitors in compatible devices (polar h7)
+-compatible with ant+ heart rate monitors.",['SETTINGS']
+28,org.angel.heartmonitorfree.activities,-record all your exercises.,['MICROPHONE']
+29,or.kr.khis.phr,"4. vaccination
+view vaccination history and vaccination information
+
+5. consolidate/share downloads
+download personal health records such as medication information, medical history, health checkups, and vaccination details as files and share them through sns, sms, etc.","['STORAGE', 'SMS']"
+30,premom.eh.com.ehpremomapp,simply scan ovulation tests and sync bbt to accurately discover your fertile window.,['CAMERA']
+31,melstudio.mpresssure,"by the way, you can also set notifications for the medications you take, and now you will never forget to do too;
+✓ export the data and the charts from the cardio diary to the e-mail, text files or to .xls and .pdf.",['STORAGE']
+32,melstudio.mpresssure,"now you can easily present a picture of your health to your doctor;
+✓ automatic data backup to the sd or the internal storage of the phone.",['STORAGE']
+33,melstudio.mpresssure,"so, in the application blood pressure tracker, we use ranges system and everyone con set up if for himself.",['LOCATION']
+34,kr.maetel.zerema,"• alarm
+  if you set the alarm in the app, you will receive the alarm both through the app and pillow.",['SETTINGS']
+35,kr.maetel.zerema,"you can select the alarms with various setting options such as repeatability, alarm position and alarm sound.",['SETTINGS']
+36,md.akira,"personalized virtual care from canadian healthcare professionals, via encrypted text and video, whenever you need it, anywhere in canada.","['CAMERA', 'MICROPHONE']"
+37,itech.wearables,connected gps - create a custom route or just keep track of where you've been and where you're going with this useful feature.,['LOCATION']
+38,itech.wearables,"additional features:
+camera remote, vibrating alarms, music remote (available for select watches), weather forecast (available for select watches), find your watch, and so much more!",['CAMERA']
+39,itech.wearables,"permissions
+for use of all app features, we require the following permissions:
+camera
+contacts
+location
+storage
+bluetooth
+call logs
+read phone state
+process outgoing calls
+*no information shared with third parties","['STORAGE', 'CONTACTS', 'CAMERA', 'CALL_LOG', 'PHONE', 'SETTINGS']"
+40,somnoxbv.somnoxmobilecompanionapp_v2,"- stream your own music
+stream your favorite music and sounds: such as meditations, breathing exercises, podcasts or audiobooks - directly via bluetooth.",['SETTINGS']
+41,life.simple,"integrate simple with apple health, google fit, or fitbit to sync your steps, weight, water, and sleep data.",['CONTACTS']
+42,vrfit.mtome.com.vrfit_pop,"(with bluetooth)
+
+it automatically records an exercise history and shows trends for future reference.","['STORAGE', 'SETTINGS']"
+43,vrfit.mtome.com.vrfit_pop,"caution
+the watt value calculated by vrfit cycle pop is the calculated value based on the measured rpm and user's resistance level input.",['SETTINGS']
+0,org.ehealthinnovation.medly,• additional option to automatically transmit readings from bluetooth with supported devices.,['SETTINGS']
+1,sample.projects.biocalculusv1212,"to avail this service, install the latest version of biocalculus application.",['STORAGE']
+2,sample.projects.biocalculusv1212,"after activation, scan for bluetooth devices and pair your mobile via bluetooth to the device for connection.",['SETTINGS']
+3,sample.projects.biocalculusv1212,the app lets you choose the recording of your choice - either phone recording or device recording.,['MICROPHONE']
+4,sample.projects.biocalculusv1212,"the recorded data can be uploaded to the cloud from the mobile or device (via otg) to analyse it for cardiac arrhythmias like tachycardia, bradycardia, afib etc.",['STORAGE']
+5,ru.ppav.timer,"suitable for many sports training (crossfit, tabata, street workout, running, boxing, yoga, of hiit, fitness, sixpack workout, and more)
+
+ simple interface
+ work in the background
+ use heart rate ble (bluetooth low energy)
+ android wear & google fit integration 
+ easy to edit and create your own timers of any complexity 
+ create a completely custom interval timer",['SETTINGS']
+6,watertracker.waterreminder.watertrackerapp.drinkwater,"smart alarms can be automatically set tailored to your daily routine: right after waking up, before/after meals and before bedtime.",['SETTINGS']
+7,inc.techxonia.medicalrecords,"with the multi-profile medical records app, a user can keep their own set of relevant medical information on their phone for easy access and sharing.",['STORAGE']
+8,inc.techxonia.medicalrecords,"the application provides many features that help patients to keep records of many common medical concepts, such as lists of medications, doctor's visits, illnesses, health insurance, medical tests, surgeries, vaccines, and many more.",['STORAGE']
+9,se.lichtenstein.mind.en,• reminders based on time and location.,['LOCATION']
+10,se.lichtenstein.mind.en,• possibility to save your favorites for quick access.,['STORAGE']
+11,se.lichtenstein.mind.en,• make meditations and course sessions available offline.,['STORAGE']
+12,nl.appyhapps.tinnitusmassage,you can also use the masking noise without the therapy tones by lowering the therapy tones volume to zero.,['SETTINGS']
+13,nl.appyhapps.tinnitusmassage,while playing you can change the volume for left and right channel in the main screen.,['SETTINGS']
+14,nl.politie.hrm.conditie,"the app offers:
+- clear instructional videos;
+- a ""coach"" who guides and motivates you during every training;
+- the ability to play your own music;
+- the option to track and improve your results in a dashboard.",['STORAGE']
+15,melstudio.msugar,"in addition, you can log each medication taken, log insulin tracker and also find out which medicine fits your best and make your blood glucose log normal or not - by this approach you can manage diabetes logbook more effectively.",['STORAGE']
+16,sg.gov.hpb.healthhub,"quick links:
+
+locate and browse popular e-services easily.",['LOCATION']
+17,io.ionic.tadawy,talk to a specialist doctor online within minutes and get an accurate and guaranteed consultation.,['MICROPHONE']
+18,uk.co.piota.healthcentral,"contacts
+the contacts section contains all the contacts you will need, making it easy to get hold of the correct person the first time.",['CONTACTS']
+19,shop.shop_apotheke.com.shopapotheke,"with our integrated e-prescription app, you can scan the qr-code and order your medicine even faster - e-prescription scanned by 6pm, delivered by tomorrow***.",['CAMERA']
+20,shop.shop_apotheke.com.shopapotheke,"choose from a huge selection of medicine, cosmetics & much more
+ compare prices on the go using our barcode scanner
+ collect your prescription or e-prescription safely and conveniently
+ get your delivery very fast with now!",['CAMERA']
+21,shop.shop_apotheke.com.shopapotheke,"great, then simply scan the code and order even more conveniently.",['CAMERA']
+22,jiuan.androidBg.start,"entries are, all securely stored in your free ihealth cloud account.","['STORAGE', 'CONTACTS']"
+23,net.klier.blutdruck,"track, monitor and store your blood pressure (systolic and diastolic) along with your pulse, blood sugar and more.",['STORAGE']
+24,net.klier.blutdruck,a bp monitor for fast and simple recording that is easy and a real pleasure.,['MICROPHONE']
+25,net.klier.blutdruck,"features:
+* easy record and store your systolic and diastolic blood pressure together with your pulse at a given time
+* support of bluetooth monitoring devices 
+* helpful charts and statistics about your arterial pressure that can be commented for future analysis
+* detailed pdf report with chart for a given time range for consultation with your doctor.",['SETTINGS']
+26,net.klier.blutdruck,"also with healthon code of conduct for trustfully health information in apps (v5.26)
+
+supported bluetooth devices:
+- beurer bm 54, bc 57, bm 57, bm 77, bm 85, bc 85
+- crane connect bluetooth 
+- medisana bw 300 connect, bu 530 connect, bu 550 connect, bu 575 connect, sl 100 connect
+- sanitas (sbc 53, sbm 37, sbm 67)
+- silvercrest sbm 68
+- stayfit 
+
+use with or without free registration.",['SETTINGS']
+27,net.klier.blutdruck,with your login you can also sync with other devices.,"['STORAGE', 'CONTACTS']"
+28,pedometer.steptracker.calorieburner.stepcounter,"no gps tracking, so it can greatly save battery.",['LOCATION']
+29,pedometer.steptracker.calorieburner.stepcounter,"whether your phone is in your hand, bag, pocket or armband, it can auto-record your steps even your screen is locked.",['MICROPHONE']
+30,pedometer.steptracker.calorieburner.stepcounter,"no gps tracking, so it barely consumes battery power.",['LOCATION']
+31,pedometer.steptracker.calorieburner.stepcounter,"backup & restore data
+you can back up and restore data from your google drive.",['STORAGE']
+32,pedometer.steptracker.calorieburner.stepcounter,"samsung health & google fit
+can't your steps tracking app sync data to samsung health & google fit?",['CONTACTS']
+33,pedometer.steptracker.calorieburner.stepcounter,it makes syncing data to samsung health & google fit easy.,['CONTACTS']
+34,uk.nhs.fhft.myfrimleyhealthrecord,• connect your account to google fit to pull health-related data from your personal devices right into myfrimleyhealth record.,['CONTACTS']
+35,uk.nhs.fhft.myfrimleyhealthrecord,"• connect your accounts from other healthcare organisations so you can see all your health information in one place, even if you've been seen at multiple healthcare organizations.",['CONTACTS']
+36,uk.nhs.fhft.myfrimleyhealthrecord,"• link your myfrimleyhealth record app to other health related apps on your device using google fit to automatically collect data such as step count, calorie intake, blood pressure, or blood glucose, from other health and fitness apps and incorporate it into your medical record
+
+to access myfrimleyhealth record, you must create an account.",['CONTACTS']
+37,uk.org.consultantconnect.app,"the app also has photosaf, which enables you to take patient photos with the convenience of a smartphone, but while complying with information governance rules.",['CAMERA']
+0,com.run.tracking,"use runtracker pro live tracking to let your friends watch your fitness activities while you’re on the move
+
+• get audio updates while you work out about your total mileage, calorie count, pace, speed, mileage
+
+add your the user in settings 
+
+get live in 
+
+the current time read from the gps and the local time in your current timezone
+
+get audio updates while you work out about your total mileage, speed, mileage
+
+* map my tracks integration need to create an account on mapmytracks.com
+    easily sync activities to mapmytracks.com where your online training room keeps a log of your activities and lets you better understand your training, keep motivated and improve your performance.",['LOCATION']
+1,com.run.tracking,"• sync your polar heart rate monitor to track your heart rate and stay in heart rate zones
+* bluetooth smart (ble) heart rate monitor (classic bluetooth hrm are not supported)
+  --banda cardio dual ant+/bluetooth
+  --smartband xiaomi mi band 4/5/6
+
+*sync runkeeper.com with the best fitness apps you’re already using for nutrition, sleep monitoring, weight, step tracking, calorie counting, and getting rewards.",['SETTINGS']
+2,com.run.tracking,"* send your activity to strava.com
+
+*automatic backup of your workouts
+
+*android based heart rate monitor which uses the camera and its flash to determine the user's heart rate in beats per minute
+         -all you have to do is click menu and click ""camera hrm"" and then hold the tip of your index finger over the camera lens of your phone.",['CAMERA']
+3,com.run.tracking,the entire camera preview image should be red with a lighter area where the tip of your finger is touching.,['CAMERA']
+4,com.lifesensegroup.oopsieheroes,"if the sensor detects a urine leak, it will send a harmless audio signal to the mobile device which will then wake up your child using an alarm sound chosen by you!",['MICROPHONE']
+5,com.lifesensegroup.oopsieheroes,"buy the oopsie heroes sensor at 
+
+features:
+- detect night-time bedwetting (using sensor)
+- wake up alarm in case of bedwetting
+- no bluetooth
+- choose from multiple alarm sounds
+- logbook with day and time of bedwetting events
+- playful design",['SETTINGS']
+6,com.mm.heart.rate.pedometer,heart rate monitor: pulse checker & step counter is basically a technological innovation where we use the camera of the smartphone to accurately calculate the pulse of the user.,['CAMERA']
+7,com.mm.heart.rate.pedometer,• our app uses phone’s camera to calculate the heart rate.,['CAMERA']
+8,com.mm.heart.rate.pedometer,download and install heart rate monitor: pulse checker & step counter and we assure you that you have a very well thought our fitness tool in your pocket.,['STORAGE']
+9,com.mm.heart.rate.pedometer,• place your index finger on the camera of your phone and keep it static there until the feedback light on your screen turns red.,['CAMERA']
+10,com.mm.heart.rate.pedometer,• you will be able to see your pulse graph as heart rate monitor: pulse checker & step counter starts to calculate through the camera.,['CAMERA']
+11,com.mm.heart.rate.pedometer,"• sometimes the flash of the smartphone gets really hot, avoid touching it while covering the camera with your index finger for heart analysis.",['CAMERA']
+12,com.nike.plusgps,"-
+
+nrc works with google fit to sync workouts and record heart-rate data.",['CONTACTS']
+13,com.nike.plusgps,continued use of gps running in the background can decrease battery life.,['LOCATION']
+14,com.idealSmart.idealSmart,"the ideal protein app allows you to:
+1)	communicate securely with your ideal protein coach and pre-order your ideal protein foods from your authorized ideal protein clinic;
+2)	journal your meals, supplements and hydration with easy-to-use progress indicators, checklists, and food lists trackable to your personalized goals and aligned to each phase of the ideal protein protocol;
+3)	receive messages and alerts to keep you motivated, notify you when it’s time to log your food, and give you personalized progress updates;
+4)	track biometric data with the ideal protein scale with seamless bluetooth syncing through the app;
+5)	see graphs to help you monitor your progress.",['SETTINGS']
+15,com.qvik.mrpatient,"now, doctor have no worry about expensive software and hardware
+
+free trial features:
+ managed patient's appointments
+ managed patient's medical records & visit history
+ upload patient reports
+ upload patient medical documents(audio, video & images)
+ managed billing
+ reschedule next appointment
+
+
+pro version features: 
+ free trial features
+ backup & restore data
+ add multiple clinic
+ print prescription & report
+ share prescription & report
+ use templates for medication, patient info & medical record notes
+ add new medication templates
+ future enhancements
+
+using mr.patient practice management app, you can manage all your patient records such as personal information, medical reports, medication, visit history, clinical notes, patient history, and other notes.",['STORAGE']
+16,com.google.android.apps.fitness,"with fit, checking in with your breath is easy—all you need is your phone camera.",['CAMERA']
+17,com.myinnotech.scale,"*** remember to grant our app ""location"" access, this is required for connect innotech scale via bluetooth ***
+
+innotech smart scale
+
+monitor your total health
+keep track of your weight, bmi, body fat, muscle mass, water, bone mass, bmr(basal metabolic rate), visceral fat and protein daily by simply stepping on innotech scale every day!","['LOCATION', 'SETTINGS']"
+18,com.myinnotech.scale,it immediately syncs your progress to your portable devices for easy tracking.,"['STORAGE', 'CONTACTS']"
+19,com.myinnotech.scale,"works well with other health & fitness apps
+innotech scale syncs with top health and fitness apps including apple health, fitbit and google fit.",['CONTACTS']
+20,com.itslili.lili,we also connect to your account in read-only mode.,['CONTACTS']
+21,com.hein.funtest,"record steps, calories and walking distance
+take a photo remotely through the bracelet and find a mobile phone
+record daily changes in sleep, heart rate, blood pressure, and blood oxygen
+set alarms via app, sedentary/drinking reminders, etc.",['CAMERA']
+22,com.hein.funtest,"support push, sms, application notification and other push messages",['SMS']
+23,com.google.android.apps.healthdata,"health connect stores the health and fitness data from your apps in one place, offline and on your device, so you can easily manage the data from your different apps.",['STORAGE']
+24,com.google.android.apps.healthdata,update privacy settings in a few taps.,['SETTINGS']
+25,com.lmt.sleeppatientapp,"additionally, with prisma app you can control your device remotely and adjust comfort settings of your device just from the bedside.",['SETTINGS']
+26,com.lmt.sleeppatientapp,"*
+
+*note: prisma app is available for all prisma sleep therapy devices by löwenstein medical, the possibility to control comfort settings of prisma devices remotely is available only for the type max and plus with built-in bluetooth module.",['SETTINGS']
+27,com.have.fit.ii,"after you bind and authorize, we will push the phone call and sms message content to the watch to prevent you from missing key information.","['SMS', 'CALL_LOG']"
+28,com.prehabguys.prehabapp,"6.  custom workout builder - build your own custom workouts & save your favorite exercises/routines
+7.  programming that fits you - choose from rehab, prehab, mobility, performance, and fitness programs
+8.  alternate exercises - every exercise can be swapped to an alternative exercise if its too challenging
+9.  growing library - new exercises, programs, workouts and guides added regularly so you always have fresh content to consume.",['STORAGE']
+0,com.medtronic.diabetes.minimedmobile.eu,the minimed mobile app is intended to provide a secondary display for a compatible minimed insulin pump system on a suitable consumer electronic device for passive monitoring and to sync data to carelink system.,['STORAGE']
+1,com.notebean.app.walkfit,it also fetches your current location from the gps to show your activity on map.,['LOCATION']
+2,com.notebean.app.walkfit,all of your fitness reports are stored on your device so that you can analyze your fitness data anytime anywhere.,['STORAGE']
+3,com.scopenc.hma,you may use this programme to monitor your heart rate and pulse rate at any time and from any location by just placing your fingertip on your camera.,['CAMERA']
+4,com.nouveausouffle.app,"record your own message of support
+
+sometimes it's difficult, sometimes you need words of encouragement.",['MICROPHONE']
+5,com.nouveausouffle.app,"record your own message of encouragement or that of one of your
+relatives.",['MICROPHONE']
+6,com.nouveausouffle.app,"make an appointment with your coach
+
+check the availability of your coach and plan your appointment yourself
+you with him.",['CALENDAR']
+7,com.nouveausouffle.app,you will receive an appointment reminder directly by sms.,['SMS']
+8,com.loblaw.pchealth,"sign in with your pc id
+
+you’ll need to sign in with your pc id account to use services or features in this app.",['CONTACTS']
+9,com.mypainoff,"mypainoff, your pain management tracker and pain relief device app, is to help you use the pain relief bluetooth easy@home tens devices to manage your pain relief journey with pain logging, pain data tracking, personalized pain report and pain relief therapy.",['SETTINGS']
+10,com.mypainoff,"**this application requires an easy@home wireless tens device**
+
+mypainoff connects wirelessly via bluetooth to easy@home tens and ems device and controls the massage therapy location, pain level, massage intensity, massage time and mode easily from your smartphone.",['SETTINGS']
+11,com.mypainoff,track the body location and intensity of your pain relief therapy session to view your progress over time.,['LOCATION']
+12,com.sector.s.one,"after you bind and authorize,we will push your phone’s notifications directly to your watch to avoid you missing them.",['SETTINGS']
+13,com.sector.s.one,2. we will access the mobile phone location to get local weather information and synchronize it to the device display.,['LOCATION']
+14,com.privateapp.practice,private practice ireland allows the public to book private medical appointments with gps for themselves and their dependents.,['LOCATION']
+15,com.humworld.humhealth,"* patients can send and receive a message to and from physician
+     * it supports vital bluetooth device integration for remote patient monitoring
+ 
+features for physician:
+
+     * physicians can view the care plan of the patients.",['SETTINGS']
+16,com.myhealthplus.apps,•	device integration - connect other popular apps and devices to sync all activity and health data.,['CONTACTS']
+17,com.paziresh24.paziresh24,"with paziresh24, the nearest doctor is your phone!",['LOCATION']
+18,com.paziresh24.paziresh24,"you can choose doctors, hospitals, and clinics profiles with filters such as specialties, geographic location, insurances, and ..., view their working calendar, and book an appointment as easy as a pie!",['CALENDAR']
+19,com.reflectio.io,"just put your finger on the phone's camera, fully covering the lens and flashlight.",['CAMERA']
+20,com.reflectio.io,don't forget to allow camera access.,['CAMERA']
+21,com.sccfitness,enjoy the best experience in technogym equipped facilities using sequoyah wellness to connect to the equipment with bluetooth or qr code.,['SETTINGS']
+22,com.sccfitness,"log moves manually or sync with other apps such as google fit, s-health, fitbit, garmin, mapmyfitness, myfitnesspal, polar, runkeeper, strava, swimtag and withings.",['CONTACTS']
+23,com.hekahealth.walkingchallenge.app,participants may be provided custom-branded bluetooth connected activity trackers to track the number of steps they take during a challenge.,['SETTINGS']
+0,com.levstone.mobility.trustedelderlycare,the gps tracker with geo-fencing can tell you when a loved one leaves home and when they arrive back.,['LOCATION']
+1,com.levstone.mobility.trustedelderlycare,"the app features built-in phone sensors, external home iot sensors (due october 2021), gps tracking and automatic geo-fence location alerts, and advanced daily recurring tasks and reminders to protect and monitor the health of an elderly person.",['LOCATION']
+2,com.levstone.mobility.trustedelderlycare,and its a senior launcher app with large buttons for phone calls and websites.,['PHONE']
+3,com.rosywellness,"otherwise, your account will be charged within 24 hours prior to the end of the current period.",['CONTACTS']
+4,com.rosywellness,payment is charged to your google play account.,['CONTACTS']
+5,com.selfloops.fitness,the application supports any bluetooth heart rate monitor.,['SETTINGS']
+6,com.selfloops.fitness,"the application tracks heart rate, calories and when used outdoor it also tracks distance, speed and altitude using the smartphone gps.",['LOCATION']
+7,com.medsolis.patientAppBeta,"with new features of device integration -- after taking the readings from bluetooth le enabled vital devices, readings will automatically synced to patient app.","['STORAGE', 'SETTINGS']"
+8,com.ihealthlabs.MyVitalsPro,"by connecting the device to your ihealth account, you'll be able to sync the data and access it at any time.",['CONTACTS']
+9,com.insoulce_solutions.pharma_medicine,saved bookmarks and recents can easily by accessed by swiping app drawer.,['STORAGE']
+10,com.phonegap.whichderm,- please capture skin photographs and submit them for analysis.,['CAMERA']
+11,com.phonegap.whichderm,"the cropped images will be transferred, but we will not store your data.",['STORAGE']
+12,com.heiaheia,"• micro actions: small daily actions that have a big impact on your health (note: only available in community-wide wellbeing programs)
+• built-in gps for tracking duration, distance, and speed of outdoor activities.",['LOCATION']
+13,com.heiaheia,• log activities manually or sync data automatically.,['STORAGE']
+14,com.heiaheia,"connect with your friends, co-workers and family and motivate one another with cheers and comments
+
+
+note: continued use of gps running in the background can dramatically decrease battery life.",['LOCATION']
+15,com.lbrc.PeriodCalendar,see everything you need at a glance on the calendar home page.,['CALENDAR']
+16,com.lbrc.PeriodCalendar,"period calendar protects your most private data—the calendar can be password locked, keeping your information hidden from prying eyes.",['CALENDAR']
+17,com.lbrc.PeriodCalendar,easy backup and restore of your data to protect against device loss or replacement.,['STORAGE']
+18,com.lbrc.PeriodCalendar,download our period calendar free today!,"['STORAGE', 'CALENDAR']"
+19,com.nk.bleadvertiser,"nk link logbook pairs with your coxbox gps & speedcoach gps/sup/oc with training pack to (1) import session data for review and analysis and (2) stream live performance measurements to nk's public online viewer at 
+
+quick and easy to store session data
+pair with your nk device using data link mode to import session memory to your secure account.","['STORAGE', 'LOCATION']"
+20,com.nk.bleadvertiser,"review and analyze session performance
+quickly find and select sessions from the calendar view.",['CALENDAR']
+21,com.nk.bleadvertiser,"safety on the water
+coaches, family, friends and spectators can view your location on the map viewer.",['LOCATION']
+22,com.nk.bleadvertiser,just scan the map viewer or boat list to locate any streaming boat.,['CAMERA']
+23,com.nk.bleadvertiser,"team subscriptions
+assign coaches and athletes to your team for easy data sharing
+privately stream live performance data to your assigned team coaches
+simultaneously compare live streaming data from multiple boats
+
+essential coaching tool
+coaches can view real-time location and performance measurements during workouts in order to provide more effective feedback.",['LOCATION']
+24,com.nk.bleadvertiser,"requirements
+- compatible with coxbox gps, with firmware version 1.00 or higher.",['LOCATION']
+25,com.nk.bleadvertiser,"- mobile device must have bluetooth 4.3 or higher, and must have bluetooth peripheral service.",['SETTINGS']
+26,com.livallsportsinternational,group riding feature can make your team’s riding joyful by learning your teammates’ real-time location and not letting your teammates fall behind.,['LOCATION']
+27,com.livallsportsinternational,"the new version supports bluetooth to connect the bling helmet, bling jet and nano cadence, proving you with comprehensive and accurate data.",['SETTINGS']
+28,com.livallsportsinternational,"accurate cycling data with no deviation 
+double gps positioning correction algorithm keep you on the right track.",['LOCATION']
+29,com.livallsportsinternational,"support bluetooth to connect the bling helmet, nano cadence, heart rate monitors and other smart gadgets.",['SETTINGS']
+30,com.livallsportsinternational,special note: the above functions need to obtain your location information.,['LOCATION']
+31,com.livallsportsinternational,"the app runs in the background while riding, and we will also obtain your location information to record your riding track.",['LOCATION']
+32,com.livallsportsinternational,"but we need you to manually authorize to us, we will not obtain your location information without your authorization
+in order to provide you with one-click sharing service, our app has integrated umeng+  u-share sdk , which will collect your device identifiable information (such as imei/android id/idfa, etc.)",['LOCATION']
+33,com.livallsportsinternational,and public information of social account in order to share information with social account.,['CONTACTS']
+34,com.rd.tengfei.bdnotification,"rdfit an application used with smart bluetooth wearable device.our app connects to all our smart watches via bluetooth.it detects and evaluates the users daily active data,sleep,heart rate,steps,sleep and many other functions.helps you monitor and adjust your day to day activity and life.",['SETTINGS']
+35,com.rd.tengfei.bdnotification,"the application can push the notification bar information of applications such as sms to the watch, and when an incoming call is received, the watch can answer, reject, and send sms to quickly reply, bringing users a more convenient experience.",['SMS']
+36,com.playbrush.adultapp,"follow these simple steps to get started:
+download > register > connect gum smart one via bluetooth > optimise your oral care
+
+the following smart features await you in the app:
+- the brushing coach provides real-time feedback while you interactively brush surface by surface and tooth by tooth.",['SETTINGS']
+37,com.nqt.symptomchecker,this symptom checker use ai to analyze your possible conditions base on your symptoms and gives you to the appropriate healthcare action: if you need to see a doctor or go to your nearest hospital.,['LOCATION']
+38,com.nqt.symptomchecker,- where to go – direct you to nearest hospitals or pharmacies.,['LOCATION']
+0,com.npe_inc.scosche.rhythmsync,"· collects rhythm 24 recorded activities and has download capabilities
+· allows for rhythm heart rate monitor firmware updates",['STORAGE']
+1,com.kollectivemobile.euki,track it in the calendar without worrying about the app sending you alerts that aren’t relevant.,['CALENDAR']
+2,com.kollectivemobile.euki,"features
+calendar and logging
+-	use fun icons to track bleeding, emotions, body changes, sex, contraception, and appointments.",['CALENDAR']
+3,com.kollectivemobile.euki,-	set reminders in the calendar to help you remember when to take your pills.,['CALENDAR']
+4,com.maithu.transplantbuddy,"key features: 
+- sync with connected health devices and the google fit app e.g.",['CONTACTS']
+5,com.maplenativeuser,"chat with your provider via secure text messaging, audio, or video for a diagnosis, prescriptions, sick note, medical advice, lab test requisitions, and more.","['CAMERA', 'MICROPHONE']"
+6,com.maplenativeuser,"no matter where you’re located in canada, maple connects you to a provider in minutes, 24/7.",['LOCATION']
+7,com.neurometrix.quell,"utilizing bluetooth smart technology to connect your quell to your smartphone or tablet, you can control your device and track your therapy, sleep, pain levels, and activity.",['SETTINGS']
+8,com.neurometrix.quell,•	track weather changes that may impact pain and adjust therapy accordingly.,['LOCATION']
+9,com.neurometrix.quell,the quell relief app works on android devices that support bluetooth le and are running android 6 or later.,['SETTINGS']
+10,com.linktop.healthmonitor,"health monitor app connects to the linktop health monitor device(model: hc-03) via bluetooth, which can be used to measure body temperature, blood pressure, heart rate, blood oxygen and ecg.",['SETTINGS']
+11,com.linktop.healthmonitor,"the measurement records are stored in the mobile device, which is convenient for self-tracking records and management.",['STORAGE']
+12,com.linktop.healthmonitor,visual measurement process.,['CAMERA']
+13,com.ifit.wolf,"users can also link their ifit and apple health, google fit, strava, and garmin connect accounts to synchronize activity history.",['CONTACTS']
+14,com.programandoandroides.podometrosport.free,"pedometer sport gps uses the data obtained from the gps to show real distances, being much more accurate than a step counter.",['LOCATION']
+15,com.programandoandroides.podometrosport.free,"- average passage time per km
+- time to travel a km and difference with the previous km
+- calories
+- altitude
+- normal map view, satellite, hybrid, and terrain, and 3d
+- graphics altitude and speed.",['LOCATION']
+16,com.programandoandroides.podometrosport.free,some manufacturers include battery-saving modes that disable gps when the screen is turned off and the application goes into the background.,['LOCATION']
+17,com.programandoandroides.podometrosport.free,"on sony xperia models (the steps may vary depending on the model and version of android):
+
+1 settings
+2 power management
+3 turn off the ""stamina mode"", or access app.",['SETTINGS']
+18,com.lifescan.reveal,"easy-to-view diabetes logbook
+•	automatically logs and organizes your blood glucose readings.",['STORAGE']
+19,com.lifescan.reveal,•	optionally integrates with google fit and fitbit.,['CONTACTS']
+20,com.lifescan.reveal,"compatible with devices with btle (bluetooth low energy) support and running android version 9.0, 10.0, 11.0, 12.0, 13.0.",['SETTINGS']
+21,com.northcube.sleepcycle,"4. no more guessing: control if you snore, talk, cough, or sneeze at night with our sleep recorder.",['MICROPHONE']
+22,com.northcube.sleepcycle,"no more grogginess in the morning
+√ carefully selected alarm sounds
+√ customizable wake-up window; from instant (regular alarm clock) up to 90 minutes
+√ snooze by shaking or double-tapping the phone lightly
+
+sleep recorder and snore tracker
+√ snore recorder and sleep talk recorder: snore tracker function to check how much you really snore.",['MICROPHONE']
+23,com.northcube.sleepcycle,"sleep games:  start your day with “awake”, a sleep game that lets you test your alertness in the morning, helping improve your focus
+√  sleep goal: your sleep calculator and reminder towards a more regular and restful slumber
+√ online backup - secure your data online
+√ integration with google fit
+… and much more.",['STORAGE']
+24,com.naturalcycles.cordova,the app supports syncing with apple health.,['CONTACTS']
+25,com.lekseek.mydrdiabetologia,"just download it, so you can instantly transfer data from a meter, such as contourplus one, onetouch select plus flex or glucomaxx connect, to your phone.",['STORAGE']
+26,com.lekseek.mydrdiabetologia,the transfer takes place via bluetooth technology.,['SETTINGS']
+27,com.montex.agu_app,you can share data of development of your child with family members and add up to 5 users into family account.,['CONTACTS']
+28,com.montex.agu_app,children's watch-phone with gps will help to keep abreast your child's moves during the day and to be in contact with him or her constantly.,['LOCATION']
+0,com.mykronoz.app.zesport2,"equipped with state of the art technologies like 3-axis accelerometer, ultra-accurate heart rate monitor, altimeter and barometer, zesport2 precisely record your sport activities to help you tracking your progress anywhere.",['LOCATION']
+1,com.mykronoz.app.zesport2,"thanks to its built-in gps, you can easily remember the best spots you crossed while exercising and keep record of your workouts data (distance, pace and routes).",['LOCATION']
+2,com.mykronoz.app.zesport2,"finally, zesport2 can be used as a remote control, allowing you to take pictures, play your music or easily find your phone from your watch.",['CAMERA']
+3,com.mykronoz.app.zesport2,"in addition to its training functions, zesport2 will also notify you when receiving incoming calls, text messages or social networks notifications.",['SMS']
+4,com.mykronoz.app.zesport2,"* features *
+
+- multi-sport mode (running, biking, walking, hiking, trail run, swimming)
+- track daily activity (steps, distance, calories, active minutes)
+- monitor your heart rate
+- built-in gps: check your workout route while exercising and keep record of your workouts data (distance, pace and routes)
+- record your sleep cycles
+- set personal goals
+- analyze your results and progress through the activity dashboard
+- caller id: zesport2 displays caller number and/or name
+- select notifications of your choice (incoming calls, sms, emails, calendar events, social networks)
+- set daily reminders
+- control your music from your wrist
+- take pictures remotely
+- share your daily activity with your friends on social media
+- choose your watch faces","['LOCATION', 'SMS', 'CALENDAR']"
+5,com.neoteric.reality.safetycheck,"silverbac app will measure the blood levels and notify the administrator with the level readings and other information about the individual, such as time, location, and b-a reading.",['LOCATION']
+6,com.neoteric.reality.safetycheck,using bluetooth capability the application will take these readings and show them on the users device.,['SETTINGS']
+7,com.nuvoair.aria,"the air next spirometer
+
+• it connects automatically and wirelessly to your mobile device via bluetooth.",['SETTINGS']
+8,com.meilancycling.mema,"feature:
+
+1. indoor exercise function, support bluetooth ble, ant+ mode for speed, cadence, heart rate, power and other sensor connections.",['SETTINGS']
+9,com.meilancycling.mema,"2. outdoor exercise function, free mobile phone gps speed measurement, mileage display, and track record.",['LOCATION']
+10,com.meilancycling.mema,"10. features for finding nearby car shops and charging stations, and the routes that riders often take make your ride easier.",['LOCATION']
+11,com.portablepixels.smokefree,• record and conquer your cravings using diary entries.,['STORAGE']
+12,com.popularapp.thirtydayfitnesschallenge,"also, this app can synchronize with burned calorie data on google fit.",['CONTACTS']
+13,com.rocateer.mediscount,"with the pill counter, pilleye, you can count pills, tablets in the blink of an eye just by taking a picture!",['CAMERA']
+14,com.rocateer.mediscount,-record storage: you can store all the records in pilleye.,['STORAGE']
+15,com.js.mini.eyeexamapp,save you exams for later usage.,['STORAGE']
+16,com.jks.Spo2MonitorEx,"2. can set alarm, set the highest and lowest of spo2 and heart rate according to your physical condition.",['SETTINGS']
+17,com.robleridge.Moodfit,- to do breathing exercises to quickly increase a sense of calm.,['MICROPHONE']
+18,com.rfdevelopments.genomapp,export your personalized genetic reports to pdf and take them everywhere.,['STORAGE']
+19,com.mindbodyonline.connect,"how it works: 
+
+download the top-rated workout & wellness app to create a healthy routine & crush your fitness goals.",['STORAGE']
+20,com.mindbodyonline.connect,"find local workout classes, wellness services, beauty appointments, & home fitness workouts by location, time, date, & category with our easy-to-use filters.",['LOCATION']
+21,com.mindbodyonline.connect,"save your favorite gyms, studios, classes, spas, & beauty salons to easily book again.",['STORAGE']
+22,com.mindbodyonline.connect,"*flexible pricing available in the u.s. only 
+
+*continued use of gps running in the background can dramatically decrease battery life",['LOCATION']
+23,com.noise.fit.ace,"after you bind and authorize, we will push the phone call and text message content to the watch to prevent you from missing key information.","['SMS', 'CALL_LOG']"
+24,com.innovatise.everyoneactive,you can also sync your wearable devices and apple health data with your profile.,['CONTACTS']
+25,com.innovatise.everyoneactive,you can also use the qr code scanner to sync activities in the gym to your profile.,['CAMERA']
+26,com.mirion.android.instadose,the instadose companion mobile app wirelessly communicates and securely transmits accumulated dose data from instadose+ and instadose2 digital dosimeters to mirion servers where dose information is archived in the wearer’s legal dose of record.,['STORAGE']
+27,com.mirion.android.instadose,automatic dose reads are performed on an established calendar setting (set by your account administrator) and manual dose reads can be performed at any time by pressing the button on the back of the dosimeter for 4-seconds.,['CALENDAR']
+28,com.ottobock.prosthetics.ll.cbracesetup,"installed on a tablet terminal device, it allows you as a practitioner to adjust the c-brace settings to your user's individual needs.",['SETTINGS']
+29,com.mapmywalk.android2,"- routes - find nearby places to run, save your favorite paths, add new ones, and share with others.",['LOCATION']
+30,com.mapmywalk.android2,"train like a pro with mvp premium features
+
+- live tracking - share your real-time running location, give loved ones peace of mind.",['LOCATION']
+31,com.mapmywalk.android2,"find full terms, conditions, and our privacy policy at 
+
+note: continued use of gps running in the background can dramatically decrease battery life.",['LOCATION']
+32,com.rxr.production,"help desk --
+if you need assistance with the rx refill mobile app, dial 1-866-651-3180 to speak with a help desk representative.",['PHONE']
+0,com.heart.rate.bloodpressure,"★ key features
+◆ measure heart rate (pulse) with your camera easily.",['CAMERA']
+1,com.heart.rate.bloodpressure,"heart rate mesauring guide
+to measure your heart rate accurately, simply place one finger on the back of the camera, keep still, and start detecting your heart rate.",['CAMERA']
+2,com.naitreetgrandir.ngapp.mobile,"a secure backup of your information, in the event of loss or change of cell phone.",['STORAGE']
+3,com.honbow.letsfit,"2. exercise data analysis: letsfit is also able to record while you exercise, and will display various data, including a detailed route and various exercise data analyses afterward.",['MICROPHONE']
+4,com.honbow.letsfit,"3. notifications assistant: letsfit pushes call、sms and other app notifications to the connected smartwatch, you can mute, answer, or hang up on the connected device while receiving an incoming call.","['SMS', 'PHONE']"
+5,com.honbow.letsfit,you can also quickly reply to the caller via sms.,['SMS']
+6,com.honbow.letsfit,please note: letsfit will use your location in the background when you work out.,['LOCATION']
+7,com.hairskin.androidapp,*photo diary: keep track of your changes and take photos of your progress.,['CAMERA']
+8,com.jiohealth.patient,"consult with doctors via chat, video, and voice calls.","['CAMERA', 'MICROPHONE']"
+9,com.jiohealth.patient,"simply search the world’s largest verified nutrition database (nutritionix), scan a barcode, or snap a picture to effortlessly journal your meals!",['CAMERA']
+10,com.jiohealth.patient,jio health syncs with ihealth wireless glucometers (blood sugar meters) for seamless tracking!,['CONTACTS']
+11,com.jiohealth.patient,• sync with apple health to track your steps and more automatically!,"['STORAGE', 'CONTACTS']"
+12,com.h43.dentalmonitoring,"the dentalmonitoring app is intended to be used with the patented dm scanbox and dm cheek retractor, to maximize the quality of each intraoral picture taken with patients’ smartphones.",['CAMERA']
+13,com.idexx.cardiopet,"the app works with the cardiopet ecg transmitter, using bluetooth technology to transmit a six-lead ecg for the highest diagnostic quality.",['SETTINGS']
+14,com.medigraphy.ecg,"electrocardiography is the process of producing an electrocardiogram (ecg or ekg[a]), a recording – a graph of voltage versus time – of the electrical activity of the heart[4] using electrodes placed on the skin.",['CAMERA']
+15,com.lifesensegroup.carin,after downloading the app you will be asked to sync the sensor to proceed with the training.,['STORAGE']
+16,com.runtastic.android,"app usage info & premium membership details
+the adidas running app by runtastic is free to download & use.",['STORAGE']
+17,com.runtastic.android,the renewal of your premium membership will be charged to your account up to 24 hours before your current membership expires.,['CONTACTS']
+18,com.liverdoc.hcvts,"monthly updates 
+we regularly make changes to the therapyselector app.",['STORAGE']
+19,com.liverdoc.hcvts,on a frequent basis we import new data.,['STORAGE']
+20,com.nisan.healthrecord,health records app helps to keep track record of patient health condition for future references.,['STORAGE']
+21,com.nisan.healthrecord,3. delete any added patient record.,['STORAGE']
+22,com.logmycare.app,"don’t forget, your care service will need a log my care account.",['CONTACTS']
+23,com.philips.sonicare4kids,"* versus using a toothbrush alone
+** across 2.8 million connected sonicare for kids ""gentle"" brushing sessions
+
+to take advantage of all features, please use sonicare for kids connected toothbrush that automatically connects to the app via bluetooth.",['SETTINGS']
+24,com.nutratech.app.android,it’s super fast and easy to use with photos of food or logos for instant recognition.,['CAMERA']
+25,com.nutratech.app.android,"the app is designed for easy calorie tracking, with a barcode scanner and minimal taps to add food.",['CAMERA']
+26,com.nutratech.app.android,purchase in-app through your google play account.,['CONTACTS']
+0,com.locai.petpartner,"reminders, messages and to do’s
+sync reminders and add custom to-do’s to your calendar.",['CALENDAR']
+1,com.sec.android.app.shealth,"required permissions
+- phone : used to confirm your phone number for together.",['CONTACTS']
+2,com.sec.android.app.shealth,"optional permissions
+- location : used to collect your location data using the trackers(exercises & steps), used to display a route map for exercise, and to display the weather during exercise
+- body sensors : used to measure heart rate, oxygen saturation, and stress (hr&stress : galaxy s5~galaxy s10 / spo2 : galaxy note4~galaxy s10)
+- photos and videos(storage) : you can import/export your exercise data, save exercise photos, save/load food photos
+- contacts : used to check if you are logged into your samsung account, and to create a friend list for together
+- camera : used to scan qr codes when you add friends using the together, and to take photos of foods, and to recognize numbers on a blood glucose meter&blood pressure monitor(available in some countries only)
+- physical activity : used to count your steps and to detect workouts
+- microphone : used to record audio for snore detection
+- nearby devices : used to scan for and connect to nearby devices, including galaxy watches and other accessories
+- notifications : used to provide you with timely information","['LOCATION', 'CAMERA', 'MICROPHONE']"
+3,com.philips.sleepmapper.root,"dreammapper provides all of the following:
+• bluetooth data transfer from your philips pap;
+• daily feedback about your treatment and your therapy results;
+• personalize your treatment management by setting alerts and personal goals;
+• find the answers to your questions through a rich content including informational videos and guides;
+• receive notifications about your therapy and your dreammapper compatible equipment;
+ 
+learn more about dreammapper and the philips devices it supports at 
+ 
+philips cpap devices treat obstructive sleep apnea (osa) so that you can sleep better at night and be more active during the day.",['SETTINGS']
+4,com.philips.sleepmapper.root,"philips dreammapper has access to the following permissions:
+ 
+location
+approximate location (network-based): this is to set up bluetooth communication.","['LOCATION', 'SETTINGS']"
+5,com.philips.sleepmapper.root,a location is required to acquire the pair.,['LOCATION']
+6,com.philips.sleepmapper.root,"photos/media/files
+read the contents of your usb storage: this is needed to access the scanned and stored image that the camera takes of the device serial number (dsn).",['CAMERA']
+7,com.philips.sleepmapper.root,"storage
+read the contents of your usb storage: this is a way to access the dsn image that might be stored on the sd card (some androids devices store images to the sd card).",['STORAGE']
+8,com.philips.sleepmapper.root,"camera
+take pictures and videos: used to scan the dsn.",['CAMERA']
+9,com.philips.sleepmapper.root,pair with bluetooth devices: first-time connection to another bluetooth device.,['SETTINGS']
+10,com.philips.sleepmapper.root,access bluetooth settings: first-time connection to another bluetooth device.,['SETTINGS']
+11,com.hansdinslage.connect.HealthForYou,this will give you call and sms alerts as well as notifications from your messenger services directly to your tracker so you can stay connected throughout the day.,['SMS']
+12,com.irwaa.medicareminders,"with medicaapp, add medications, capture medicine photos, and set schedule of when to take them.",['CAMERA']
+13,com.irwaa.medicareminders,"• take photo of the medication using your phone camera
+• set a default dose that you still can change/adjust when you take the medication (useful for medical plans with changing doses)
+• track your medications: open the pill tracker screen, and view medication log and track your taken, skipped, and missed pills for the past days, weeks, and months.","['STORAGE', 'CAMERA']"
+14,com.irwaa.medicareminders,"• delete a medication, or deactivate it to keep it for reference.",['STORAGE']
+15,com.irwaa.medicareminders,"• convenient alert styles: alert then stop, alert forever, go and come, notification only
+• customize your medication reminder: tone, volume, and vibration
+• set custom reminder tone: pick your favorite ringtone
+
+• mark your med doses as taken, skipped, or leave them as missed
+• set the actual time of taking the dose
+• add notes to your doses to keep a record of what's going on
+• snooze the alert when you are not ready to take the meds
+
+ refill reminder
+
+• adjustable refill reminder: reminds you to refill your stock of meds just when it goes under the threshold your adjust
+• request refills from your pharmacy: send the amounts you need to be refilled from within the app!",['SETTINGS']
+16,com.irwaa.medicareminders,"forget about your old pill box, and download this convenient and reliable pill reminder & refill tracker app.",['STORAGE']
+17,com.kihmobile.kih,"kulsum international hospital mobile app is specially designed for patients to view doctors, book an appointment and view/download/print their reports.",['STORAGE']
+18,com.milktea.garakuta.basaltemp,· the created table can be output to the documents folder in pdf format.,['STORAGE']
+19,com.glucowell.en,"sync
+vivaguard can automatically sync test results from vivachek bluetooth glucose meters.","['STORAGE', 'SETTINGS']"
+20,com.ovuline.fertility,in your app calendar.,['CALENDAR']
+21,com.ovuline.fertility,◆ sharing & calendar syncing: export your cycle data as a spreadsheet and share with your partner.,"['CONTACTS', 'CALENDAR']"
+22,com.j_ware.polarsensorlogger,"one of the application's core feature is to save received sensor data to files on device, that can be then later accessed eg.",['STORAGE']
+23,com.j_ware.polarsensorlogger,user can also share saved files to eg.,['STORAGE']
+24,com.j_ware.polarsensorlogger,"sensor firmware requirements:
+- h10 firmware 3.0.35 or later
+- oh1 firmware 2.0.8 or later
+
+permissions: 
+- device location and background location: in order to scan bluetooth devices, device location is required by the android system.","['LOCATION', 'SETTINGS']"
+25,com.j_ware.polarsensorlogger,background location is required in order to seek devices if application is not in the foreground.,['LOCATION']
+26,com.j_ware.polarsensorlogger,"- all files access permission: data from the sensor is saved to files on the device and then they can be emailed, saved to google drive, access via pc, etc...
+
+- internet: data sending to mqtt-broker
+
+privacy policy:
+this app does not collect user data (location/etc...)
+
+this application was made for my own purposes and it is not an official polar app nor supported by polar.",['STORAGE']
+27,com.j_ware.polarsensorlogger,"a: bluetooth exchanges data around 1 s intervals and if your heart rate is around 60 bpm, then almost every rr-interval hits between data transmission.",['SETTINGS']
+28,com.myfitnesspal.android,"■ one of the largest food databases – calorie counter for over 14 million foods (including restaurant dishes)
+■ fast & easy food tracker & planner tools – type to search, add foods from your history or scan a barcode or entire meal with your phone’s camera
+■ calorie counter – follow your intake with the calorie counter and see your daily progress
+■ macro tracker – see carbs, fat & protein breakdown by gram or percentage—no need for a separate carb tracker, keto diet, or health and fitness app!",['CAMERA']
+29,com.ido.boatprogear,"and since it uses your phone’s location, it can decrease battery life as well.",['LOCATION']
+0,com.miiskin.android,"**about miiskin**
+- the award-winning health-app with over 500,000 downloads, intended for skin and mole surveillance 
+- the first ai-based (artificial intelligence) app, dermatologically accredited by the derm (dermatologist) accrediting organization, skin health alliance
+- hipaa verified
+- miiskin supports the leading skin cancer organizations in the us, the uk, canada and south africa to prevent skin cancer through education, raising awareness and donations
+- recommended by board-certified doctors and dermatologists in over 130 clinics and hospitals worldwide
+- listed on the emis app library & the nhs apps library in the united kingdom
+- mentioned by forbes, usatoday, medcity news, cnet, digital health news, mobihealthnews and many more
+
+**miiskin app features**
+
+mole & skin tracker
+- easily track and log your moles’ locations on a body chart / map
+
+close-up photography 
+- track detected changes in moles and other lesions on your skin
+
+in-app comparison 
+- use the side-by-side view to compare your baseline and follow-up photos over time to easily spot changes in your skin and moles
+
+skin check reminders 
+- get a reminder when it’s time to take a new photo
+
+security and privacy
+- securely back-up all photos taken by miiskin and separate them from your regular photo gallery.",['CAMERA']
+1,com.miiskin.android,"powered by computer vision and augmented reality, automatic skin imaging can take full-body images of you with your own smartphone.",['CAMERA']
+2,com.miiskin.android,"share your photos 
+- miiskin has a sharing functionality to give someone access to your photos via email.",['CONTACTS']
+3,com.miiskin.android,"easy phone transfer 
+easily transfer your account and photos when you get a new phone.","['STORAGE', 'CONTACTS']"
+4,com.linktop.otoscope,"at the same time, when previewing the real-time picture, you can take pictures and videos, save the picture or video at that time, and compare it with the previously saved one, which is quite convenient.",['CAMERA']
+5,com.medela.mymedela.live,- easily export your records to share with your paediatrician.,"['STORAGE', 'MICROPHONE']"
+6,com.medela.mymedela.live,- save every single detail in your very own breastfeeding tracker and pump log.,['STORAGE']
+7,com.medela.mymedela.live,- using the medela family wear os app is only possible if you have installed the medela family app on your smartphone and the smartphone is permanently connected to your watch via bluetooth.,['SETTINGS']
+8,com.medela.mymedela.live,the vip pack can be unlocked only by connecting a medela bluetooth pump.,['SETTINGS']
+9,com.lufit.code,"in addition, our smartwatch will also notify you when receiving incoming calls or text messages.",['SMS']
+10,com.lufit.code,(this will use the read_sms and read_call_log permissions.),"['SMS', 'CALL_LOG']"
+11,com.oplayer.reflexactive,phone finder feature helps locate your phone or smartwatch should you misplace them.,['LOCATION']
+12,com.philips.hearlink2,"the streaming equalizer is available for all philips hearlink bluetooth hearing aids except philips hearlink 2000 and 3000
+•	have your hearing aids adjusted and receive counseling from the comfort of your own home – via a live video call with your hearing care professional
+•	handle wireless accessories paired with your hearing aids; control multiple tv adapters or devices, such as audioclip, which can be used both for streaming and as a remote microphone
+
+the philips hearlink 2 app is compatible with all philips bluetooth hearing aids.",['MICROPHONE']
+13,com.grush.plus,"turn on bluetooth to enjoy the interactive brushing mode, as well as to sync your brushing data from the toothbrush to the app.",['SETTINGS']
+14,com.hp.pregnancy.lite,"baby development 
+ unique, interactive 3d models showing your baby’s development 
+ baby size guide helps you visualize your baby’s size in fruits, animals & candy
+ pregnancy week-by-week guides explain what to expect in each pregnancy week
+ simple & informative pregnancy timeline highlighting important milestones
+
+pregnancy guides & information 
+ in-depth pregnancy guides covering breastfeeding, exercise, food, twins & more 
+ daily pregnancy articles, tailored to your pregnancy stage
+ 2d & 3d scans by pregnancy week for you to browse
+ daily blog posts with tips, tricks & helpful advice
+ upload photos in my bump to create a visual pregnancy diary
+
+pregnancy tools 
+ pregnancy due date calculator helps you work out when your bundle will arrive
+ kick counter tracks your baby’s movements & activity
+ pregnancy weight log helps you keep an eye on changes in your weight
+ contraction timer measures contractions throughout your labor
+
+organize & plan 
+ pregnancy calendar enables you to plan & document your prenatal appointments
+ hospital bag helps you prepare your hospital visit, for mother, birth partner & baby
+ birth plan allows you to customize, organize & export your needs & wishes
+ to-do list & baby shopping list for ideas of what you need to do & buy
+ search thousands of baby names for inspiration & share your favorites
+
+our exclusive 3d models 
+enjoy our unique 3d models showing your pregnancy’s week-by-week development, from blastocyst to fetus to baby.",['CALENDAR']
+15,com.jinyichen.healthday,"the app will use the device administrator privilege, the phone lock screen function will be used in the sports mode page; the sms and call log permission will be used to push the sms and call information to the bracelet and watch in real time.","['SMS', 'CALL_LOG']"
+16,com.jinyichen.healthday,some wearable products also support the display of mobile phone contacts (contact list) and call logs.,"['CONTACTS', 'CALL_LOG']"
+17,com.oplayer.tikkers,"it will also notify you when receiving incoming calls, text messages or social networks notifications.",['SMS']
+18,com.oplayer.tikkers,"phone finder feature helps locate your phone or smartwatch should you misplace them.
+""",['LOCATION']
+19,com.komorebi.smartdiet,"unlike any other body weight scale where you can see only plain numbers, smardiet has a calendar where you can check your progress with a daily graph.",['CALENDAR']
+20,com.komorebi.smartdiet,"or try notes: they come with a huge storage so that you could add bmi tracking and belly fat loss, workouts, meals, poop, etc.",['STORAGE']
+21,com.komorebi.smartdiet,you can edit or delete any of those info as well.,['STORAGE']
+22,com.nationalhospital.surabaya.nhapps,with proud we introducing our national hospital mobile application called nh apps.,['LOCATION']
+23,com.nationalhospital.surabaya.nhapps,"this beta version designed to inform you about our latest promotions, event updates, address and location details of our hospital, and specialist clinics schedules.",['LOCATION']
+24,com.mydiabetes,diabetes:m can analyze the values from the imported data from various glucometers and insulin pumps via the exported files from their respective diabetes management software systems.,['STORAGE']
+25,com.mydiabetes,+ bluetooth integration – connects to some of the most popular bluetooth glucose meters.,['SETTINGS']
+26,com.mydiabetes,+ synchronization – automatically sync multiple devices on data change.,['STORAGE']
+27,com.medm.app.health,the world’s only holistic health monitoring diary that can collect 20+ measurement types from 800+ bluetooth-enabled sensors.,['SETTINGS']
+28,com.medm.app.health,"medm health does not require registration, but with it - offers synchronization and backups with a cloud service.","['STORAGE', 'CONTACTS']"
+29,com.medm.app.health,unregistered users can keep their health diaries in offline mode (data stored only on their smartphone).,['STORAGE']
+30,com.medm.app.health,"data backups: medm health users can securely backup their data to medm health portal ( this cloud service helps keep the health journals safe and up-to-date, even if smartphones and connected health meters change.",['STORAGE']
+31,com.medm.app.health,"data safety: medm employs all applicable data protection best practices - measurements are synchronized with the cloud via https, data is stored encrypted, on securely hosted servers.",['STORAGE']
+32,com.medm.app.health,users exercise full control over their records and can export or request to delete them at any time.,['STORAGE']
+33,com.medm.app.health,"data sync with google fit, health connect, fitbit, garmin and other ecosystems.",['CONTACTS']
+34,com.medm.app.health,"medm is the absolute world leader in smart medical device connectivity - we support bluetooth, nfc, and ant+ meters by the following vendors: a&d medical, andesfit, andon health, aoj medical, berry, betachek, borsam, beurer, choicemmed, cmi health, conmo, contec, core, cosinuss, d-heart, ezfast, findair, finicare, fleming medical, fora care inc., ichoice, indie health, iproven, i-sens, jerry medical, j-style, jumper medical, kinetik wellbeing, masimo, microlife, mio, mir, nonin, omron, oxiline, pic, roche, rossmax, sinocare, smartlab, taidoc, tanita, tech-med, transtek, tyson bio, viatom, vitalograph, yonker, zewa inc. and more.",['SETTINGS']
+0,com.sevegame.calorie,scan barcode - you can also scan barcodes on food packages to log instantly.,['CAMERA']
+1,com.herzberg.easyquitsmoking,your data is saved locally on your phone.,['STORAGE']
+2,com.healtharx.beato,5. automatic data saving: readings are saved in the app's blood sugar logbook & analyzed with simple graphs.,['STORAGE']
+3,com.healtharx.beato,7. share your readings: out-of-range readings are shared with chosen contacts via automatic sms alerts.,"['CONTACTS', 'SMS']"
+4,com.healtharx.beato,"8. save big: subscription plans save on test strips, medicines & lab tests.",['STORAGE']
+5,com.healtharx.beato,10. stay fit: sync your fitness tracker for steps & calories burned directly on the app.,['CONTACTS']
+6,com.helyxon.ivital,the bluetooth enabled device transmits the measured patient data to your mobile phone into this app.,['SETTINGS']
+7,com.mobileaction.icare,"in addition, the location info of i-careu life provides a map that allows you to check the history data of your cared ones in two days, in case of any emergency occasion when you need to look up the location of your care ones.",['LOCATION']
+8,com.medisafe.android.client,"as a medication management platform, medisafe is a comprehensive tool that compiles all of your medical and health information in one place: pill and medicine reminders, drug-to-drug interactions, refill alerts, doctor appointments, and health journal with 20+ trackable health measurements
+
+
+privacy
+• medisafe is available for free and no registration is required
+• we comply with strict privacy laws (hipaa and gdpr compliant) to safeguard medical information
+
+
+ app permission information
+read your contacts - used if you choose to add a doctor or medfriend.",['CONTACTS']
+9,com.medisafe.android.client,the app never stores your address book content and it doesn’t access your address book without asking you first.,['CONTACTS']
+10,com.medisafe.android.client,find accounts on the device - medisafe uses push notifications to medfriends to let those with permission know if the main user has forgotten to take medication.,['CONTACTS']
+11,com.medisafe.android.client,"additional information
+frequently asked questions: 
+terms of use: 
+privacy policy: 
+validation by 3rd party independent studies:
+• 
+• 
+
+medisafe is free for download and use.",['STORAGE']
+12,com.medtronic.crhf.mclh,patients with medtronic heart devices that have bluetooth wireless telemetry can download this app for free and use it for remote monitoring.,['SETTINGS']
+13,com.medtronic.crhf.mclh,"the bluetooth word mark and logos are registered trademarks owned by bluetooth sig, inc. and any use of such marks by medtronic is under license.",['SETTINGS']
+14,com.mysugr.android.companion,"• secure data backup (built with regulatory compliance, quality, and safety).",['STORAGE']
+15,com.mysugr.android.companion,• pdf & excel reports: save or print all your data for you or your doctor.,['STORAGE']
+16,com.mysugr.android.companion,• meal photos: snap your meals to improve your carb counting.,['CAMERA']
+17,com.mysugr.android.companion,your subscription and auto-renewal options can be managed in your account settings in the google play settings after purchase.,['CONTACTS']
+18,com.nsk.relaxandcalmneo.free,"the app allows add videos (specifying name and one of the two modes of use) and audio tracks from user’s media store to use them, along with embedded ones.",['STORAGE']
+19,com.remente.app,the purchase is handled by your google account.,['CONTACTS']
+20,com.repsi.heartrate,"to use this heart rate monitor app, just put your finger on the phone's camera and stay still, the heart rate should be shown after several seconds.",['CAMERA']
+21,com.rikerapp.riker,riker has an export function to extract your sets and body measurement log data to csv files.,['STORAGE']
+22,com.rikerapp.riker,there's also an import function so you can restore your data to a new device.,['STORAGE']
+23,com.ovuline.pregnancy,"◆pregnancy tracker and baby growth calendar  view timely information about what to expect this trimester, month, and week.",['CALENDAR']
+24,com.ovuline.pregnancy,"◆comprehensive tracker track your health (symptoms, mood, sleep, activity, weight, blood pressure, and nutrition), appointments, pregnancy milestones, and baby bump photos in your calendar.",['CALENDAR']
+25,com.sencor.sencorhealth,"key functions:
+1) data transmission between application and scale through bluetooth.",['SETTINGS']
+26,com.lovelife.tasl,"equipped with built-in sensor technology & bluetooth 4.0, lovelife krush measures the pressure, control, endurance, and grip of your pc muscles.",['SETTINGS']
+27,com.iqo2.tracker,"this free app will sync with your iqo2 account, so that you can view your planner, view your current training zones and workouts, and input your body metrics.",['CONTACTS']
+28,com.resmed.myair.canada,you can also download a therapy summary report to keep for your records or share with your healthcare provider.,['STORAGE']
+29,com.mdacne.mdacne,"1. take a selfie
+
+2. the app will assess your skin immediately
+
+3. acne treatment crafted just for you is sent to your doorstep
+
+
+get your first customized acne treatment kit for free!",['CAMERA']
+30,com.jack.emayecgmonitor,"the app is specially designed for emay bluetooth portable ecg/ekg monitor to download, save and share ekg & ecg reports on your android phone.","['STORAGE', 'SETTINGS']"
+31,com.oplayer.dofit,"it will also notify you when receiving incoming calls, text messages or social networks notifications.",['SMS']
+32,com.oplayer.dofit,"answer, reject, or mute incoming calls directly from your wrist, ensuring you stay connected on the go.",['PHONE']
+33,com.oplayer.dofit,tailored alerts: customize your notifications to suit your preferences.,['SETTINGS']
+34,com.oplayer.dofit,find your phone: can't locate your phone?,['LOCATION']
+35,com.oplayer.dofit,"play, pause, skip tracks, and adjust the volume directly from your smartwatch.",['SETTINGS']
+36,com.oplayer.dofit,remote camera capture: capture the perfect shot with ease.,['CAMERA']
+37,com.oplayer.dofit,use your smartwatch as a remote shutter button for your smartphone's camera.,['CAMERA']
+38,com.medm.medmbg.diary,"medm diabetes is the world’s most connected blood glucose monitoring diary, which simplifies blood sugar tracking and can do export and import data to/from google fit.",['STORAGE']
+39,com.medm.medmbg.diary,the diary can be used to log blood sugar data manually or sync with numerous glucose monitors via bluetooth with the option to back up data to our cloud service.,"['STORAGE', 'SETTINGS']"
+40,com.medm.medmbg.diary,medm complies with all applicable data protection best practices: measurements are securely synchronized with medm cloud via https protocol and data is stored encrypted on securely hosted servers.,['STORAGE']
+41,com.medm.medmbg.diary,users exercise full control of their records and can export or request to delete them at any time.,['STORAGE']
+42,com.medm.medmbg.diary,"our apps provide seamless direct data collection from hundreds of fitness and medical devices, sensors, and wearables equipped with bluetooth, nfc, and ant+.",['SETTINGS']
+43,com.ridewithgps.mobile,"elevate your ride experience using the world’s most trusted mobile route planner, audible voice navigation, shareable live tracking and free global community heatmap.",['LOCATION']
+44,com.ridewithgps.mobile,train smarter with bluetooth connectivity to extract more data from your ride.,['SETTINGS']
+45,com.ridewithgps.mobile,"get inspired, not lost using turn-by-turn voice navigation right from your phone.",['MICROPHONE']
+46,com.ridewithgps.mobile,receive estimated arrival times straight from the ride with gps mobile app.,['LOCATION']
+47,com.ridewithgps.mobile,enjoy the freedom to navigate beyond the bounds of phone service using downloadable offline maps and cue sheets.,['STORAGE']
+48,com.ridewithgps.mobile,"use our global heatmap to locate popular roads and trails, or use your personal heatmap to see where you’ve ridden, and where you should ride next.",['LOCATION']
+49,com.ridewithgps.mobile,"shareable live tracking
+
+share your real time location with friends, family and followers using ride with gps’ shareable live tracking.",['LOCATION']
+50,com.ridewithgps.mobile,add peace-of-mind to your rides and keep family and friends in the loop with your real time position and estimated completion time.,['LOCATION']
+51,com.ridewithgps.mobile,open the ride with gps mobile app and start exploring.,['LOCATION']
+52,com.ridewithgps.mobile,download the route for navigation with or without signal.,['STORAGE']
+53,com.ridewithgps.mobile,toggle airplane mode to save data and extend your battery range.,['SETTINGS']
+54,com.ridewithgps.mobile,"bluetooth compatibility
+
+train smarter with bluetooth connectivity.",['SETTINGS']
+55,com.ridewithgps.mobile,"extract more data from your rides by pairing your favorite power meter, heart rate monitor, speed and cadence sensors to the ride with gps mobile app.",['LOCATION']
+56,com.ridewithgps.mobile,our mobile app is compatible with any standard bluetooth sensor.,['SETTINGS']
+57,com.ridewithgps.mobile,"3rd party integration
+
+ride with gps integrates seamlessly across all of your devices — wirelessly sync routes to your favorite head units from garmin, wahoo and hammerhead.",['LOCATION']
+58,com.ridewithgps.mobile,"ride safely and with comfort knowing that ride with gps is the only 3rd party app compatible with garmin varia, which looks back while you ride ahead, notifying you of approaching vehicles via visual and audible alerts within the mobile app.",['LOCATION']
+0,com.identos.nav.southlake,"through the southlake health navigator, you can create an ontario trusted account and use this verified identity to securely manage your hospital appointments, access general health and service information, and access your personal health information as well as virtual services.",['CONTACTS']
+1,com.rrsolutions.fevercheckup,medical report storage: keep all of your medical reports in the app for an easy access.,['STORAGE']
+2,com.rrsolutions.fevercheckup,"in addition to tracking body temperature and symptoms, the thermometer and fever tracker app also allows users to record their personal contacts on a daily basis.",['CONTACTS']
+3,com.rrsolutions.fevercheckup,"this can be helpful:
+to identify the potential sources of illness;
+ for contact tracing purposes;
+ to check your temperature while sick or to recover.",['CONTACTS']
+4,com.rrsolutions.fevercheckup,"if necessary, users can also export their data using a separate function within the app.",['STORAGE']
+5,com.kinomap.training,the application provides access to the largest geolocated video sharing platform with thousands of routes around the world.,['LOCATION']
+6,com.kinomap.training,"- map mode 
+train on your own gps tracks or any a public track.",['LOCATION']
+7,com.kinomap.training,"use a bluetooth/ant+ sensor (power, speed/cadence) or the optical sensor of your smartphone or tablet; it detects the movement and simulates the cadence.",['SETTINGS']
+8,com.phonegap.dtrack,uninstalling will delete all your local data.,['STORAGE']
+9,com.realsil.android.powerband,a bluetooth connected wristband detects the number of motion steps.,['SETTINGS']
+10,com.quan.fttempble,"features:
+-support temp tracker
+-support bluetooth to take temp data 
+-support bbt charts
+-support period tracker
+-support ovulation test tracker
+ 
+
+
+
+about fore health -
+fortechgrp co.,ltd.",['SETTINGS']
+11,com.meditation.live,talk to real coaches everyday.,['MICROPHONE']
+12,com.meditation.live,"* youtube, facebook and linkedin for select classes
+we save your wellness sessions to your apple health app.",['STORAGE']
+13,com.meditation.live,payment will be charged to the credit card connected to your itunes account when you confirm the initial subscription purchase.,['CONTACTS']
+14,com.macropinch.hydra.android,cardiograph uses your device's built-in camera or dedicated sensor to calculate your heart's rhythm - the same approach used by professional medical equipment!,['CAMERA']
+15,com.macropinch.hydra.android,"without any external hardware, just using the built-in camera/sensor of your smartphone or tablet, you can get accurate readings almost instantly.",['CAMERA']
+16,com.macropinch.hydra.android,"please note: if your device doesn't have a built-in camera flash, you need to take your measurements in a well lit environment (bright sunlight or close to a light source).",['CAMERA']
+17,com.oplayer.goodmansfitpro,"specially designed for all goodmans activity trackers and smartwatches such as model numbers 364134 / 364135 / 374086….etc
+one core functionality of our app and our smartwatch is to allow users to handle phone calls, sms and other incoming messages directly from the smartwatch.","['SMS', 'PHONE']"
+18,com.sglabs.mysymptoms,mysymptoms makes logging a food and symptom diary easy - remembering your favorite foods and letting you add custom symptoms.,['STORAGE']
+19,com.gn2.fitness,call alert permission - once enabled from application user will get the call alert on his/her watch.,['PHONE']
+20,com.gn2.fitness,for achieving the same user need to grant call read permission to app.,['PHONE']
+21,com.gn2.fitness,sms alert permission -once enabled from application user will get the sms alert on his/her watch.for achieving the same user need to grant sms content display permission to application so that after reading the same from user device it get reflected on user watch.,['SMS']
+22,com.recoverypath,"link with your care team: 
+clinicians, sponsors, family & friends apps 
+- easily share your progress 
+- collaborate on identifying triggers and risky situations, and celebrate in the little victories
+- create an extra layer of accountability
+- receive motivational messages and images from your team
+
+meeting finder: 
+- search for community meetings based on your location
+- aa, na, refuge recovery, ca, smart recovery options all listed in one place
+- save meetings and sync to calendar on your phone
+
+check-in’s: 
+- morning and evening check-ins help keep you aware of your motivation, progress and strengths of the day.","['LOCATION', 'CALENDAR']"
+23,com.recoverypath,"places to avoid feature:
+- add places that are important to avoid in your recovery
+- customize messages to send to yourself if nearing a place to avoid
+- receive alerts when approaching location
+- option to notify your team, sponsor and family/friends
+
+beacon messaging feature:
+- send a message with the help of rp in moments of need
+- pick from pre-selected messages or create your own
+- send via sms or whatsapp to friends, family and sponsors
+
+recovery-oriented activities:
+- reasons to recover
+- words that describe you
+- enjoyable activities planner
+abstinence calendar
+
+supportive suite of apps
+- recovery path for clinicians
+- recovery path for sponsors & mentors
+- recovery path for family & friends
+
+learn more at","['LOCATION', 'SMS']"
+24,com.patroness.luci,you are in full control of what information is shared and with whom – like sending an automated text to a friend when your battery gets too low.,"['CONTACTS', 'SMS']"
+0,daily.planner.routine.habits,-set friendly reminders in your daily planner for your to-do list.,['CALENDAR']
+1,com.technogym.mywellness.brimbankleisurecentres,"enjoy the best experience in technogym equipped facilities using brimbank leisure centers to connect to the equipment with bluetooth, nfc or qr code.",['SETTINGS']
+2,com.technogym.mywellness.brimbankleisurecentres,"log moves manually or sync with other apps such as google fit, s-health, fitbit, garmin, mapmyfitness, myfitnesspal, polar, runkeeper, strava, swimtag and withings.",['CONTACTS']
+3,com.timaimee.hband2,"with the h band 2.0 app, you will be able to pair your  h band 2.0 via   bluetooth 5.0 and begin tracking wellness.",['SETTINGS']
+4,com.timaimee.hband2,"you can monitor your steps,sleep, heart rate, set alarms, and provides a gps recording of the path you ran.this  h band 2.0 app can also inform you about incoming calls, sms or other social media notifications.","['LOCATION', 'SMS']"
+5,com.timaimee.hband2,"it also allows you to set an alarm clock and has a sedentary reminder.this application collects location data to enable gps, even if the app is closed or not in use",['LOCATION']
+6,heart.rate.monitor.ecg.scg.pulse.app,"this is much more meticulous than pulsometer apps that rely on the phone's camera and finger for a pulse – heartscan goes right to the ""heart"" of the matter.",['CAMERA']
+7,com.snapworx.snapmobile,"you can order supplies, track shipments, understand when you will next be eligible, change your insurance, update your contact information and more!",['CONTACTS']
+8,de.soehnle.connect,data storage is located in germany.,['STORAGE']
+9,de.fastic.app,download it now for free!,['STORAGE']
+10,de.fastic.app,"fastic plus terms:
+by subscribing to fastic plus, payment will be charged to the credit card linked to your google account.",['CONTACTS']
+11,de.fastic.app,you can manage your subscription by accessing your account settings.,['CONTACTS']
+12,com.trainerize.goalzgainzandgloryfitapp,track body measurements and take progress photos.,['CAMERA']
+13,gentlebirth.app,"· download sessions for offline practice - be prepared anywhere, anytime.",['STORAGE']
+14,com.triples.app,- communicate with a nurse via chat.,['MICROPHONE']
+15,com.technogym.wellnessstudio,enjoy the best experience in technogym equipped facilities using wellness studio to connect to the equipment with bluetooth or qr code.,['SETTINGS']
+16,com.technogym.wellnessstudio,"log moves manually or sync with other apps such as google fit, s-health, fitbit, garmin, mapmyfitness, myfitnesspal, polar, runkeeper, strava, swimtag and withings.",['CONTACTS']
+17,com.tytocare,"it includes the hand-held tyto device for examining the heart, lungs, ears, throat, skin, heart rate and temperature, and the tytocare app for storing exam data, sharing it with a physician, and conducting a live video telehealth exam.","['CAMERA', 'MICROPHONE']"
+18,com.topstep.fitcloudpro,"* rich message reminders
+support calls, text messages, facebook, twitter and other reminders, as well as hang up the bracelet, quickly reply to text messages and other operations.","['SMS', 'PHONE']"
+19,com.topstep.fitcloudpro,"# we get in-app permissions such as location, bluetooth, contacts, calls, messages, notifications, ignore battery optimization restrictions, apps running in the background, etc.","['CONTACTS', 'SETTINGS']"
+20,de.niahealth.niaapp,"-the main functions of the nia app at a glance-
+
+✦ check the skin condition: 
+mark affected areas on the body diagram, take photos and document the current severity of the eczema.",['CAMERA']
+21,com.tayu.tau.pedometer,"features our users 
+pedometer is 100% free
+open, and tap start to get started instantly
+no gps tracking to save battery life
+100% private- we do not collect personal information
+offline mode
+
+the best pedometer app and step counter made for android.",['LOCATION']
+22,com.zsndev.step,"【power saving pedometer】
+easy walking counts your daily steps with the built-in sensor, which greatly saves battery without gps tracking.",['LOCATION']
+23,com.zsndev.step,it auto records your steps.,['STORAGE']
+24,com.widex.arc,transform your smartphone into a multi-parameter remote control of your hearing aids.,['MICROPHONE']
+25,com.widex.arc,simply and discreetly adjust the key parameters of your hearing aid without the need of bluetooth.,['SETTINGS']
+26,com.widex.arc,"with the  tonelink app you can easily:
+    *change programs
+    *adjust volume
+    *mute and unmute your hearing aid
+    *change directional focus to aid listening
+
+how the  tonelink app works
+the  tonelink app uses your phone's speaker to transmit acoustic control signals for the hearing aids.",['MICROPHONE']
+27,com.widex.arc,"just follow the steps, and please note that you might need to adjust your phone volume for the app to work.",['SETTINGS']
+28,com.widex.arc,"the  tonelink app is compatible with the following widex hearing aids:
+    *widex evoke
+
+widex is continually listing more compatible devices.",['MICROPHONE']
+29,health.step.walk,"no gps tracking, so it can extremely save battery.",['LOCATION']
+30,health.step.walk,"no gps tracking, and you can pause or start it any time to save power.",['LOCATION']
+31,com.superear.improvehearing,super ear - improve hearing app is a tool that amplifies voice and improves your hearing ability.,['MICROPHONE']
+32,com.superear.improvehearing,it also boosts voice directly into your ears and improves hearing by making sound audible.,['MICROPHONE']
+33,com.superear.improvehearing,this app enhances voice level to hear clear and better.,['MICROPHONE']
+34,dk.birthebuhl.mindfulness,"additionally, the app is equipped with a ""get to offline"" feature, which makes it possible to retrieve the audio files so that internet connection is no longer necessary.",['STORAGE']
+35,fitness.saga.saga,"unlike traditional bfr tools, the cuffs:	
+- are fully wireless, and don’t require complicated cords to inflate them
+- intelligently calibrate to an individual’s personalised pressure zone, ensuring safe limb occlusion pressure for the workout
+- occlusion pressure and therefore workout intensity can be controlled via bluetooth app using your mobile phone
+
+
+adapted from technology used by elite athletes and health professionals, the bfr cuffs aim to help individuals train smarter and get strong by leveraging the benefits of blood flow restriction training.",['SETTINGS']
+36,de.medisana.vitadockplus,"vitadock+ app is used to synchronize, store and view general health or wellness data acquired using medisana devices with bluetooth functionality.","['STORAGE', 'SETTINGS']"
+37,de.medisana.vitadockplus,"note: vitadock+ requires some android permissions to fully support our sensor devices (location permissions) and some features for our advanced activity trackers (access to calls, messages, contacts, weather [vifit run only]).","['CONTACTS', 'LOCATION']"
+38,de.medisana.vitadockplus,establish a wireless connection to our range of medisana connect-enabled devices via bluetooth 4.0 low energy.,['SETTINGS']
+39,de.medisana.vitadockplus,"older versions contain bluetooth connectivity errors, causing issues with many wearables!",['SETTINGS']
+40,de.zollsoft.ch.impfapp,the initial connection to the doctor's practice is straightforward using a qr code that the practice provides you with.,['CAMERA']
+41,de.zollsoft.ch.impfapp,"during the initial connection with a doctor's office, the messages including sender information are made unreadable for third parties.",['SMS']
+42,com.zerofasting.zero,sync with google fit to track health markers like weight and sleep to see how they evolve with your intermittent fasting practice.,['CONTACTS']
+43,com.zerofasting.zero,"zero plus terms:
+
+payment will be charged to the credit card connected to your google account when you subscribe.",['CONTACTS']
+44,com.zerofasting.zero,manage your subscription by going to your account settings.,['CONTACTS']
+45,com.smsrobot.period,"using lilly period calendar is easy, just tap a single button once a month on first day of your period and relax.",['CALENDAR']
+46,com.smsrobot.period,"lilly period tracker protects your most private data, the calendar can be password locked, keeping your cycle information and period notes hidden from others.",['CALENDAR']
+47,com.trainerize.sarahholdenfitness,download the sarah holden fitness app today to browse/purchase fitness programs.,['STORAGE']
+48,com.strava,your training log is the record of all your workouts.,['STORAGE']
+49,com.strava,• move safer – share your real-time location with loved ones while outdoors for an extra layer of safety.,['LOCATION']
+50,com.strava,"• sync your favorite apps and devices – strava is compatible with thousands of them (wear os, samsung, fitbit, garmin – you name it).",['CONTACTS']
+51,com.strava,just record and go.,['MICROPHONE']
+52,com.strava,"terms of service: 
+privacy policy: 
+
+note on gps support: strava depends on gps for recording activities.",['LOCATION']
+53,com.strava,"if your strava recordings show poor location estimation behavior, please try to update the operating system to the most recent version.",['LOCATION']
+54,com.sleepwave.app,sleepwave uses your phone’s microphone to detect movement but no audio data leaves your phone.,['MICROPHONE']

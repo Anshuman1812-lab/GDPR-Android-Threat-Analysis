@@ -1,0 +1,17 @@
+xml.etree.ElementTree
+nltk
+emoji
+torch
+numpy
+pandas
+transformers
+google_play_scraper
+huggingface_hub
+frida
+frida-tools
+-e git+https://github.com/honeynet/droidbot.git#egg=droidbot
+mitmproxy
+objection
+psutil
+pytesseract
+dnspython

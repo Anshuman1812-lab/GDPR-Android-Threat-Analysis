@@ -1,0 +1,12 @@
+com.bestfuncoolapps.TakeYourPills
+com.caresource.caresource
+com.optimaxInvestments.GlassesUSA
+com.whisperarts.mrpillster
+cloud.biobeat.HOME_CARE_PATCH
+com.wte.view
+com.AmazeHealth
+com.urbandroid.sleep.garmin
+com.trainerize.hiitmanfitness
+com.tytocare
+BADPACKAGETEST
+com.tntfitness
