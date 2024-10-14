@@ -73,7 +73,7 @@ To set up the GDPR Privacy Threat Test Bed, follow these steps:
 1. **Clone the repository:
    
    ```bash
-   git clone https://github.com/yourusername/gdpr-privacy-threat-test-bed.git
+   git clone https://github.com/Anshuman1812-lab/GDPR-Android-Threat-Analysis.git
    cd gdpr-privacy-threat-test-bed
    
 3. **Create the apks directory:**
