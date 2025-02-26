@@ -70,7 +70,7 @@ The project includes several privacy threat detection tools categorized as follo
 
 To set up the GDPR Privacy Threat Test Bed, follow these steps:
 
-1. **Clone the repository:
+1. **Clone the repository:**
    
    ```bash
    git clone https://github.com/Anshuman1812-lab/GDPR-Android-Threat-Analysis.git
